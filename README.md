@@ -1,4 +1,4 @@
-#JobPlacementData: Exploring Factors Related to Strudent Job Placement
+# JobPlacementData: Exploring Factors Related to Strudent Job Placement
 Angelica Wright
 Introduction/ Problem Description: 
 For the final project, I wanted my focus to explore how to use data sets in understanding job placements and the relationship to those placement rates given different factors. For this project, the data set called “Predicting Student Placement Using Academic Performance, IQ, and Internship Experience” from Kaggle under a public domain license. The data set was designed to look at student placement outcomes based off the different factors; academic performance, the college attend, and their intelligence, and internship experience (Ahmed, 2021). 
