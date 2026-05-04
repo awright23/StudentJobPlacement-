@@ -1,0 +1,53 @@
+---
+title: "JobPlacementData Vignette"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{JobPlacementData Vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Introduction
+
+This vignette shows how to use the JobPlacementData package.  
+The package includes a dataset called `placement` and several functions  
+for cleaning, summarizing, plotting, and modeling the data.
+
+# Load the package
+
+```r
+library(JobPlacementData)
+
+cleaned <- clean_placement(placement)
+head(cleaned)
+
+# Base R scatterplot
+plot(cleaned$IQ, cleaned$CGPA,
+     main = "Base R: IQ vs CGPA",
+     xlab = "IQ",
+     ylab = "CGPA",
+     pch = 19, col = "steelblue")
+
+# Base R barplot
+placement_counts <- table(cleaned$placement_binary)
+barplot(placement_counts,
+        main = "Base R: Placement Outcome",
+        names.arg = c("Not Placed", "Placed"),
+        col = c("tomato", "seagreen"))
+
+library(lattice)
+
+xyplot(CGPA ~ IQ | internship_binary,
+       data = cleaned,
+       main = "Lattice: CGPA vs IQ by Internship Completion",
+       xlab = "IQ",
+       ylab = "CGPA",
+       pch = 19, col = "darkorange")
+
+library(ggplot2)
+
+ggplot(cleaned, aes(x = IQ, y = CGPA, color = factor(internship_binary))) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "ggplot2: CGPA vs IQ with Trend Line",
+       color = "Internship")

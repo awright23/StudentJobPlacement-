@@ -1,0 +1,26 @@
+Package: JobPlacementData
+Type: Package
+Title: Tools for Student Job Placement Data 
+Version: 0.1.0
+Authors@R: c(
+    person( "Angelica", "Wright",
+      email = "studentemail@usf.edu",
+      role = c("aut", "cre"))
+  )
+Description: This package includes functions to assist with cleaning, summarizing, and visualiing job placement datasets. 
+            It also includes information for bar charts as well as grouped boxplots, coorelation tools, and quantiline group, which is specifically used for IQ and Cumalative GPA
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+Imports:
+    stats,
+    graphics,
+    ggplot2
+RoxygenNote: 7.3.3
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+

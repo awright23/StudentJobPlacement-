@@ -1,0 +1,87 @@
+---
+title: "Student Job Placement Analysis Report"
+author: "Angelica Wright"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(JobPlacementData)
+library(ggplot2)
+cleaned <- clean_placement(placement)
+```
+
+# Introduction
+
+This report summarizes the analysis conducted using the **JobPlacementData** package. 
+The goal is to explore how IQ, CGPA, internship completion, and college affiliation 
+affect student job placement outcomes.
+
+# Summary Statistics
+
+```{r}
+summarize_placement(cleaned)
+```
+
+### Placement Rate Formula
+
+
+
+\[
+\text{Placement Rate} = \frac{\text{Placed}}{\text{Total}}
+\]
+
+
+
+# Correlation Analysis
+
+```{r}
+correlation_matrix(cleaned)
+```
+
+### Correlation Formula
+
+
+
+\[
+r = \frac{\sum (x - \bar{x})(y - \bar{y})}
+         {\sqrt{\sum (x - \bar{x})^2 \sum (y - \bar{y})^2}}
+\]
+
+
+
+# Visualizations
+
+## Placement Rate by Internship
+
+```{r}
+plot_internship_placement_rate_ggplot(cleaned)
+```
+
+## Placement Rate by College
+
+```{r}
+plot_college_placement_rate_ggplot(cleaned)
+```
+
+## Placement Rate by IQ Group
+
+```{r}
+plot_iq_group_placement_rate_ggplot(cleaned)
+```
+
+## IQ × Internship × Placement (Grouped Boxplot)
+
+```{r}
+plot_iq_internship_placement_ggplot(cleaned)
+```
+
+# Interpretation
+
+The bar charts show differences in placement rates across internship status, 
+colleges, and IQ groups. The grouped boxplot highlights how IQ varies jointly with 
+internship completion and placement outcome. This is a tool that could used with additional factors and contexts as needed for analysis. 
+
+# Conclusion
+
+This analysis demonstrates how simple visualizations and mathematical summaries 
+can be used to explore predictors of job placement outcomes.

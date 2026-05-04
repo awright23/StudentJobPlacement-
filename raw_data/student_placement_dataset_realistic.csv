@@ -1,0 +1,2501 @@
+student_id,name,IQ,college_name,CGPA,internship_completion,placement
+0,Fatima,101.0,City College,2.55,,Placed
+1,Sophia,105.0,Global College,3.81,Yes,Placed
+2,Daniel,88.0,City College,3.64,Yes,Placed
+3,Hassan,95.0,Global College,2.69,No,Not Placed
+4,Omar,94.0,City College,3.62,No,Not Placed
+5,Fatima,92.0,Punjab Institute,2.71,Yes,Not Placed
+6,Mia,109.0,City College,2.2,Yes,Placed
+7,Hassan,93.0,Tech Valley University,3.92,,Placed
+8,Hassan,115.0,Global College,3.31,Yes,Placed
+9,John,140.0,National University,2.91,Yes,Placed
+10,Omar,96.0,National University,2.8,Yes,Not Placed
+11,Nitesh,102.0,Global College,2.65,Yes,Not Placed
+12,Ahmed,106.0,Punjab Institute,3.96,No,Not Placed
+13,Sofia,127.0,City College,2.27,Yes,Placed
+14,Sara,99.0,Punjab Institute,2.63,No,Not Placed
+15,Ahmed,88.0,National University,,Yes,Placed
+16,Ali,81.0,Global College,2.96,No,Not Placed
+17,Sofia,99.0,Global College,2.94,Yes,Not Placed
+18,Sofia,93.0,Punjab Institute,2.35,Yes,Not Placed
+19,Liam,130.0,Punjab Institute,2.29,Yes,Not Placed
+20,Mohammed,127.0,City College,2.51,Yes,Placed
+21,Emily,84.0,Tech Valley University,3.83,Yes,Not Placed
+22,Daniel,89.0,Tech Valley University,2.23,Yes,Placed
+23,Daniel,101.0,City College,3.51,No,Placed
+24,Mia,121.0,Tech Valley University,3.52,Yes,Placed
+25,Sofia,101.0,National University,3.62,No,Not Placed
+26,Sophia,90.0,Tech Valley University,3.77,Yes,Not Placed
+27,Nitesh,99.0,City College,2.53,No,Not Placed
+28,Areeb,91.0,Tech Valley University,2.45,Yes,Not Placed
+29,Mia,109.0,Global College,2.93,Yes,Placed
+30,Fatima,89.0,Punjab Institute,2.53,Yes,Not Placed
+31,Zara,92.0,National University,3.47,Yes,Not Placed
+32,Fatima,117.0,Global College,3.27,Yes,Placed
+33,Noah,88.0,Global College,3.75,Yes,Placed
+34,John,78.0,City College,2.17,No,Not Placed
+35,Neha,101.0,Punjab Institute,3.83,No,Not Placed
+36,Noah,95.0,Punjab Institute,2.59,Yes,Not Placed
+37,Zara,108.0,National University,2.98,No,Not Placed
+38,Ahmed,105.0,City College,2.88,No,Not Placed
+39,Sophia,100.0,National University,3.52,No,Not Placed
+40,Daniel,99.0,Tech Valley University,2.84,Yes,Not Placed
+41,Fatima,89.0,Global College,3.89,Yes,Placed
+42,Sofia,101.0,National University,3.81,Yes,Placed
+43,Omar,113.0,Global College,3.74,No,Placed
+44,Daniel,85.0,City College,,Yes,Not Placed
+45,Nitesh,100.0,Tech Valley University,3.71,Yes,Not Placed
+46,Neha,116.0,City College,3.56,Yes,Placed
+47,Liam,108.0,Tech Valley University,,Yes,Placed
+48,John,120.0,Tech Valley University,2.21,No,Placed
+49,Noah,91.0,Global College,2.2,Yes,Not Placed
+50,Omar,73.0,City College,2.02,No,Not Placed
+51,John,103.0,City College,3.1,No,Placed
+52,Ahmed,105.0,National University,3.95,Yes,Placed
+53,Sara,121.0,City College,2.88,Yes,Placed
+54,Mohammed,118.0,National University,3.08,No,Placed
+55,John,108.0,Punjab Institute,3.94,Yes,Placed
+56,Noah,111.0,Punjab Institute,2.51,Yes,Placed
+57,Sofia,97.0,Punjab Institute,3.72,Yes,Placed
+58,Ahmed,82.0,City College,3.09,Yes,Placed
+59,Mohammed,102.0,City College,3.14,Yes,Placed
+60,John,115.0,National University,2.69,Yes,Not Placed
+61,Neha,110.0,Tech Valley University,3.12,Yes,Placed
+62,Emily,113.0,National University,2.15,Yes,Placed
+63,Daniel,94.0,Punjab Institute,3.53,No,Placed
+64,Omar,96.0,National University,2.57,Yes,Placed
+65,Neha,107.0,Tech Valley University,3.78,No,Placed
+66,Omar,92.0,City College,,Yes,Placed
+67,Emily,92.0,National University,2.29,No,Not Placed
+68,Ravi,104.0,Punjab Institute,3.39,Yes,Placed
+69,Noah,111.0,Punjab Institute,2.33,No,Not Placed
+70,Daniel,97.0,City College,3.51,Yes,Not Placed
+71,Ravi,83.0,National University,3.94,No,Placed
+72,Zara,89.0,Tech Valley University,3.56,Yes,Not Placed
+73,Daniel,103.0,City College,2.04,Yes,Placed
+74,Ravi,103.0,National University,3.2,Yes,Not Placed
+75,Ali,104.0,Global College,3.39,No,Placed
+76,Fatima,108.0,Punjab Institute,3.65,No,Not Placed
+77,Zara,100.0,Tech Valley University,2.11,Yes,Not Placed
+78,Ali,104.0,Tech Valley University,2.96,No,Placed
+79,Sofia,99.0,Tech Valley University,3.07,No,Not Placed
+80,Omar,117.0,Punjab Institute,2.34,No,Placed
+81,Hassan,121.0,National University,2.64,No,Not Placed
+82,Mia,82.0,City College,2.88,No,Not Placed
+83,Liam,96.0,National University,3.67,Yes,Placed
+84,Omar,100.0,City College,3.86,No,Placed
+85,Nitesh,96.0,Tech Valley University,3.26,Yes,Placed
+86,Nitesh,127.0,National University,2.79,No,Not Placed
+87,Ali,103.0,Tech Valley University,2.51,Yes,Placed
+88,Areeb,88.0,Global College,3.96,Yes,Placed
+89,Mohammed,109.0,Tech Valley University,3.97,Yes,Not Placed
+90,Fatima,104.0,Tech Valley University,3.85,No,Placed
+91,Zara,105.0,City College,3.57,No,Not Placed
+92,Fatima,127.0,Global College,2.65,Yes,Placed
+93,Zara,105.0,Tech Valley University,3.63,No,Placed
+94,Omar,95.0,Tech Valley University,2.82,No,Not Placed
+95,Sofia,71.0,Global College,2.65,No,Not Placed
+96,Ahmed,98.0,Global College,3.49,Yes,Placed
+97,Ali,120.0,National University,2.16,,Placed
+98,Emily,99.0,City College,2.1,Yes,Placed
+99,Areeb,66.0,Global College,2.9,No,Not Placed
+100,Nitesh,93.0,Global College,2.89,Yes,Not Placed
+101,Sofia,115.0,Punjab Institute,3.79,Yes,Placed
+102,Omar,108.0,Global College,2.25,No,Placed
+103,Nitesh,87.0,City College,2.25,Yes,Not Placed
+104,Ali,92.0,Tech Valley University,2.29,Yes,Not Placed
+105,Nitesh,94.0,Tech Valley University,2.06,No,Placed
+106,Areeb,90.0,Tech Valley University,2.14,Yes,Placed
+107,Daniel,70.0,Tech Valley University,3.32,Yes,Not Placed
+108,Neha,111.0,Punjab Institute,2.86,Yes,Not Placed
+109,Nitesh,119.0,Global College,3.53,Yes,Placed
+110,Ali,77.0,Tech Valley University,3.99,Yes,Not Placed
+111,Areeb,119.0,National University,3.32,Yes,Placed
+112,Neha,98.0,Tech Valley University,2.1,No,Not Placed
+113,Fatima,118.0,Global College,2.21,Yes,Not Placed
+114,Zara,101.0,Tech Valley University,3.76,Yes,Placed
+115,Daniel,102.0,Punjab Institute,3.05,Yes,Not Placed
+116,Daniel,106.0,City College,3.65,Yes,Placed
+117,Mohammed,88.0,City College,3.71,No,Not Placed
+118,Ravi,118.0,Global College,3.86,No,Not Placed
+119,Mia,83.0,City College,3.9,Yes,Placed
+120,Fatima,94.0,City College,3.11,Yes,Placed
+121,Liam,108.0,National University,2.68,Yes,Not Placed
+122,Sophia,92.0,Global College,3.92,No,Placed
+123,John,112.0,Global College,3.09,Yes,Placed
+124,Areeb,121.0,City College,2.13,Yes,Not Placed
+125,Fatima,115.0,City College,3.29,Yes,Placed
+126,Ravi,71.0,City College,3.18,No,Not Placed
+127,Daniel,102.0,Punjab Institute,3.79,No,Not Placed
+128,Hassan,115.0,Tech Valley University,3.31,No,Placed
+129,John,80.0,Punjab Institute,2.7,Yes,Not Placed
+130,Ravi,111.0,Global College,3.93,Yes,Not Placed
+131,Fatima,110.0,National University,3.6,Yes,Placed
+132,Mia,82.0,Tech Valley University,3.26,No,Placed
+133,Ahmed,113.0,National University,2.59,No,Placed
+134,Mohammed,104.0,Global College,2.75,Yes,Placed
+135,Ravi,110.0,Global College,3.34,Yes,Placed
+136,Sara,86.0,National University,2.14,Yes,Not Placed
+137,Sofia,102.0,National University,2.51,Yes,Not Placed
+138,Sofia,74.0,National University,3.43,Yes,Placed
+139,Sophia,66.0,Global College,2.96,Yes,Not Placed
+140,Hassan,102.0,City College,2.8,Yes,Not Placed
+141,Fatima,117.0,National University,2.3,Yes,Placed
+142,Ali,104.0,Tech Valley University,2.88,No,Not Placed
+143,Ali,99.0,Global College,3.54,Yes,Not Placed
+144,Sophia,97.0,Punjab Institute,2.53,Yes,Not Placed
+145,Ravi,86.0,Punjab Institute,2.01,Yes,Not Placed
+146,Zara,97.0,Tech Valley University,3.34,No,Placed
+147,Nitesh,106.0,City College,3.95,No,Placed
+148,Fatima,93.0,National University,3.21,Yes,Placed
+149,Sara,111.0,Global College,2.24,Yes,Placed
+150,Omar,103.0,National University,2.64,Yes,Not Placed
+151,Zara,105.0,Global College,3.74,No,Not Placed
+152,Areeb,113.0,Punjab Institute,,,Not Placed
+153,Ali,92.0,National University,3.22,No,Not Placed
+154,Mia,110.0,Tech Valley University,2.81,Yes,Placed
+155,Mohammed,94.0,City College,2.42,No,Not Placed
+156,Sofia,105.0,Tech Valley University,3.63,No,Placed
+157,Daniel,90.0,City College,3.49,No,Placed
+158,Zara,86.0,National University,3.32,Yes,Placed
+159,Sophia,101.0,National University,2.47,Yes,Not Placed
+160,Liam,72.0,City College,2.2,Yes,Not Placed
+161,Liam,96.0,Punjab Institute,3.15,Yes,Placed
+162,Sophia,76.0,Global College,3.11,Yes,Placed
+163,Sofia,112.0,Tech Valley University,2.38,No,Placed
+164,Fatima,116.0,Tech Valley University,2.11,No,Placed
+165,Ahmed,87.0,Tech Valley University,2.16,No,Not Placed
+166,Nitesh,106.0,National University,3.99,Yes,Placed
+167,Liam,113.0,Tech Valley University,3.57,Yes,Not Placed
+168,Areeb,114.0,Global College,3.84,No,Placed
+169,Liam,103.0,Global College,2.39,Yes,Not Placed
+170,Liam,111.0,City College,,Yes,Placed
+171,Liam,90.0,National University,2.29,No,Not Placed
+172,Ahmed,101.0,Global College,3.02,No,Placed
+173,Ahmed,93.0,Punjab Institute,3.66,Yes,Not Placed
+174,Areeb,89.0,National University,2.7,No,Not Placed
+175,Ali,101.0,National University,2.85,No,Not Placed
+176,Ali,105.0,Global College,2.26,No,Placed
+177,Mia,117.0,Punjab Institute,2.25,No,Not Placed
+178,Ahmed,104.0,City College,3.24,Yes,Placed
+179,Sofia,110.0,Global College,3.35,No,Placed
+180,Sara,110.0,Punjab Institute,3.55,Yes,Placed
+181,John,140.0,National University,3.11,Yes,Not Placed
+182,Hassan,73.0,Punjab Institute,3.29,No,Not Placed
+183,Liam,90.0,National University,2.03,Yes,Placed
+184,Sara,122.0,Global College,2.32,No,Not Placed
+185,Areeb,95.0,Global College,3.97,No,Not Placed
+186,Sophia,113.0,Tech Valley University,2.15,No,Not Placed
+187,Ahmed,103.0,Tech Valley University,3.36,No,Placed
+188,Sara,132.0,Tech Valley University,2.35,Yes,Placed
+189,Hassan,83.0,Global College,3.43,Yes,Not Placed
+190,Emily,118.0,City College,3.41,Yes,Placed
+191,Emily,126.0,Global College,2.47,Yes,Not Placed
+192,Ali,85.0,Punjab Institute,2.54,Yes,Not Placed
+193,Zara,112.0,Global College,3.31,Yes,Placed
+194,Sara,86.0,Global College,2.78,No,Not Placed
+195,Emily,100.0,National University,2.39,No,Placed
+196,Nitesh,96.0,National University,3.46,No,Not Placed
+197,Sophia,64.0,National University,2.31,No,Not Placed
+198,John,106.0,Global College,3.71,Yes,Not Placed
+199,Mia,102.0,City College,3.03,Yes,Placed
+200,Nitesh,122.0,Punjab Institute,2.21,Yes,Not Placed
+201,Mia,109.0,Punjab Institute,3.39,No,Not Placed
+202,Sophia,134.0,City College,3.04,Yes,Not Placed
+203,Fatima,102.0,City College,2.6,No,Not Placed
+204,Sophia,98.0,Punjab Institute,2.85,Yes,Not Placed
+205,Zara,97.0,Tech Valley University,2.6,Yes,Placed
+206,Ali,93.0,National University,2.53,Yes,Not Placed
+207,Omar,67.0,National University,2.33,,Not Placed
+208,Fatima,97.0,Punjab Institute,2.73,Yes,Not Placed
+209,Noah,,City College,2.5,No,Not Placed
+210,Omar,107.0,Tech Valley University,3.37,No,Not Placed
+211,Ali,81.0,Punjab Institute,3.37,Yes,Placed
+212,Hassan,87.0,National University,3.0,No,Not Placed
+213,Noah,90.0,Global College,3.56,Yes,Placed
+214,Mohammed,97.0,City College,3.68,No,Placed
+215,Nitesh,100.0,Global College,3.16,Yes,Placed
+216,Fatima,116.0,Punjab Institute,3.24,No,Placed
+217,Emily,91.0,National University,2.57,Yes,Placed
+218,Emily,107.0,Tech Valley University,3.79,Yes,Placed
+219,Sophia,141.0,Global College,2.05,Yes,Not Placed
+220,Liam,106.0,Tech Valley University,2.7,Yes,Not Placed
+221,Ahmed,97.0,National University,3.44,Yes,Placed
+222,Ali,88.0,Global College,2.16,Yes,Not Placed
+223,Emily,97.0,Tech Valley University,2.37,No,Placed
+224,Sofia,87.0,Tech Valley University,3.18,No,Not Placed
+225,Areeb,104.0,Global College,3.12,No,Placed
+226,Areeb,102.0,National University,3.48,No,Placed
+227,Zara,68.0,Tech Valley University,3.63,No,Not Placed
+228,Zara,100.0,Punjab Institute,2.26,Yes,Not Placed
+229,Nitesh,116.0,Global College,2.04,Yes,Placed
+230,Mia,94.0,City College,3.38,No,Placed
+231,Emily,90.0,City College,2.6,No,Not Placed
+232,Emily,79.0,National University,3.25,Yes,Placed
+233,Nitesh,72.0,Punjab Institute,2.3,Yes,Not Placed
+234,Sophia,112.0,Tech Valley University,2.94,Yes,Placed
+235,Ali,97.0,City College,3.01,No,Not Placed
+236,Sophia,112.0,National University,3.17,Yes,Placed
+237,Hassan,123.0,Punjab Institute,3.03,No,Placed
+238,Liam,114.0,Punjab Institute,2.99,No,Not Placed
+239,Omar,92.0,National University,2.67,No,Not Placed
+240,John,102.0,National University,2.14,Yes,Placed
+241,Sara,91.0,Tech Valley University,2.18,Yes,Placed
+242,Omar,89.0,National University,2.87,Yes,Not Placed
+243,Sophia,105.0,Tech Valley University,2.71,Yes,Placed
+244,Nitesh,88.0,Tech Valley University,3.03,No,Not Placed
+245,Emily,67.0,Global College,2.61,Yes,Not Placed
+246,Nitesh,87.0,Punjab Institute,3.38,Yes,Placed
+247,Noah,95.0,Punjab Institute,3.73,Yes,Placed
+248,Neha,123.0,Punjab Institute,2.6,No,Not Placed
+249,Noah,93.0,Global College,2.39,Yes,Not Placed
+250,Ahmed,108.0,Tech Valley University,2.23,No,Not Placed
+251,Nitesh,97.0,Tech Valley University,3.23,Yes,Placed
+252,Emily,118.0,National University,2.89,Yes,Not Placed
+253,Zara,117.0,Global College,2.38,Yes,Not Placed
+254,John,118.0,National University,3.31,Yes,Placed
+255,Ali,74.0,Global College,2.3,No,Not Placed
+256,John,103.0,National University,3.11,Yes,Placed
+257,Ali,,City College,3.05,Yes,Placed
+258,Neha,106.0,Punjab Institute,3.47,No,Not Placed
+259,Emily,110.0,Punjab Institute,2.11,No,Not Placed
+260,Sophia,101.0,Tech Valley University,3.78,No,Not Placed
+261,Omar,89.0,City College,3.41,Yes,Not Placed
+262,Fatima,75.0,Punjab Institute,2.43,Yes,Placed
+263,Nitesh,90.0,Tech Valley University,2.37,No,Placed
+264,Liam,140.0,City College,2.86,No,Placed
+265,Ali,93.0,Punjab Institute,3.64,No,Placed
+266,Emily,71.0,National University,3.69,Yes,Placed
+267,Sofia,111.0,Global College,3.04,No,Placed
+268,Mia,113.0,City College,3.72,No,Placed
+269,Neha,119.0,Tech Valley University,2.01,Yes,Not Placed
+270,Sara,107.0,City College,2.07,No,Not Placed
+271,Sara,113.0,Tech Valley University,3.82,No,Placed
+272,Ravi,128.0,City College,3.55,Yes,Placed
+273,Mia,89.0,Tech Valley University,2.9,Yes,Placed
+274,Omar,86.0,Punjab Institute,3.51,No,Placed
+275,Ahmed,84.0,National University,3.91,Yes,Placed
+276,Ali,96.0,Punjab Institute,3.54,Yes,Placed
+277,Daniel,122.0,National University,3.68,Yes,Placed
+278,Ali,108.0,Punjab Institute,3.52,Yes,Not Placed
+279,Areeb,107.0,Punjab Institute,2.34,No,Placed
+280,Emily,73.0,City College,3.67,Yes,Placed
+281,Mia,90.0,Global College,2.39,Yes,Not Placed
+282,John,72.0,Tech Valley University,,No,Not Placed
+283,Nitesh,118.0,Tech Valley University,2.92,Yes,Placed
+284,Liam,124.0,Tech Valley University,3.35,Yes,Placed
+285,Liam,112.0,National University,2.99,No,Not Placed
+286,Sofia,85.0,Tech Valley University,2.19,Yes,Not Placed
+287,Neha,122.0,Tech Valley University,2.58,Yes,Placed
+288,Sara,96.0,City College,3.97,No,Placed
+289,Nitesh,82.0,Punjab Institute,3.92,No,Not Placed
+290,Zara,86.0,Tech Valley University,2.64,No,Not Placed
+291,Areeb,94.0,Global College,3.99,No,Not Placed
+292,Liam,101.0,Tech Valley University,3.69,No,Not Placed
+293,Neha,98.0,National University,3.22,No,Not Placed
+294,Nitesh,79.0,National University,2.08,No,Not Placed
+295,Ali,118.0,National University,3.8,Yes,Placed
+296,Sophia,98.0,Tech Valley University,3.11,Yes,Placed
+297,Ali,89.0,City College,3.74,No,Not Placed
+298,Nitesh,117.0,Global College,3.67,Yes,Placed
+299,Noah,82.0,Tech Valley University,3.67,Yes,Placed
+300,Mohammed,76.0,City College,3.4,Yes,Not Placed
+301,Nitesh,119.0,City College,2.58,Yes,Placed
+302,Omar,128.0,Tech Valley University,2.67,Yes,Placed
+303,Neha,93.0,Tech Valley University,2.62,No,Placed
+304,Noah,99.0,City College,2.04,No,Not Placed
+305,Daniel,83.0,City College,3.17,No,Not Placed
+306,Ahmed,100.0,City College,3.4,No,Not Placed
+307,Mohammed,93.0,Tech Valley University,3.71,Yes,Placed
+308,Ahmed,98.0,City College,2.28,Yes,Not Placed
+309,Liam,106.0,National University,3.09,Yes,Placed
+310,Omar,84.0,Tech Valley University,2.02,No,Not Placed
+311,Ali,95.0,National University,2.19,Yes,Not Placed
+312,Zara,73.0,Punjab Institute,2.11,Yes,Not Placed
+313,Hassan,95.0,Tech Valley University,3.45,No,Placed
+314,Emily,99.0,Punjab Institute,2.16,Yes,Placed
+315,Fatima,103.0,City College,3.43,No,Placed
+316,Mohammed,104.0,City College,2.5,No,Placed
+317,Nitesh,114.0,Global College,3.76,Yes,Placed
+318,Noah,77.0,City College,3.63,Yes,Placed
+319,Ravi,78.0,Punjab Institute,3.92,No,Not Placed
+320,Fatima,108.0,City College,3.77,Yes,Placed
+321,John,69.0,Tech Valley University,3.87,Yes,Placed
+322,Ravi,103.0,City College,3.72,Yes,Placed
+323,Sophia,82.0,Global College,3.39,No,Not Placed
+324,Ali,124.0,City College,,Yes,Placed
+325,Omar,104.0,Punjab Institute,,No,Not Placed
+326,Neha,97.0,Punjab Institute,2.43,,Not Placed
+327,Emily,118.0,City College,3.21,Yes,Placed
+328,Neha,84.0,Punjab Institute,3.01,No,Not Placed
+329,Sofia,87.0,Punjab Institute,3.73,Yes,Not Placed
+330,Mia,81.0,Global College,3.91,Yes,Placed
+331,Daniel,87.0,Tech Valley University,2.81,No,Not Placed
+332,Ahmed,101.0,Global College,3.01,No,Placed
+333,Ahmed,107.0,National University,3.94,Yes,Placed
+334,Mia,114.0,Global College,2.55,No,Not Placed
+335,Liam,73.0,City College,3.58,No,Not Placed
+336,Sophia,97.0,Tech Valley University,2.45,No,Not Placed
+337,Mohammed,83.0,City College,3.36,Yes,Placed
+338,Sara,97.0,National University,2.51,No,Not Placed
+339,Daniel,135.0,Tech Valley University,3.77,Yes,Placed
+340,Hassan,104.0,Punjab Institute,3.12,Yes,Placed
+341,Areeb,113.0,Global College,2.37,No,Not Placed
+342,Ali,129.0,City College,2.45,No,Placed
+343,Omar,117.0,National University,2.99,Yes,Placed
+344,Sofia,93.0,Punjab Institute,3.92,Yes,Placed
+345,Sofia,81.0,Global College,3.54,Yes,Placed
+346,Areeb,100.0,Punjab Institute,2.98,No,Not Placed
+347,Fatima,91.0,Global College,2.68,Yes,Not Placed
+348,John,77.0,Tech Valley University,3.1,Yes,Placed
+349,Sara,104.0,Punjab Institute,3.5,Yes,Not Placed
+350,Ravi,104.0,Punjab Institute,3.57,No,Not Placed
+351,Sophia,127.0,Punjab Institute,2.65,No,Not Placed
+352,Daniel,95.0,Tech Valley University,3.44,No,Placed
+353,Nitesh,104.0,National University,3.32,No,Placed
+354,Omar,90.0,Global College,3.92,Yes,Not Placed
+355,Sophia,113.0,Punjab Institute,3.86,Yes,Placed
+356,Emily,98.0,Tech Valley University,3.58,Yes,Not Placed
+357,Ravi,82.0,National University,3.45,No,Not Placed
+358,Noah,100.0,Global College,2.55,Yes,Not Placed
+359,Mohammed,106.0,Tech Valley University,3.69,Yes,Placed
+360,Mia,104.0,Global College,2.86,Yes,Placed
+361,Liam,116.0,Punjab Institute,2.54,Yes,Placed
+362,Mia,78.0,National University,2.77,Yes,Not Placed
+363,Areeb,87.0,Tech Valley University,3.67,No,Placed
+364,Zara,110.0,National University,2.3,No,Not Placed
+365,Sofia,89.0,Punjab Institute,2.91,No,Not Placed
+366,Ali,104.0,National University,2.98,No,Placed
+367,Ali,64.0,National University,2.07,Yes,Not Placed
+368,Daniel,141.0,City College,2.39,Yes,Placed
+369,Ahmed,96.0,National University,3.65,No,Not Placed
+370,Emily,118.0,Global College,3.66,No,Placed
+371,Omar,95.0,Tech Valley University,2.58,Yes,Not Placed
+372,Ravi,106.0,City College,3.75,No,Not Placed
+373,Ali,122.0,Tech Valley University,3.54,Yes,Placed
+374,Emily,,Tech Valley University,2.84,Yes,Placed
+375,Fatima,97.0,Punjab Institute,3.5,No,Placed
+376,Areeb,98.0,Punjab Institute,3.92,Yes,Placed
+377,Nitesh,115.0,City College,2.92,Yes,Not Placed
+378,Sofia,135.0,Punjab Institute,2.48,Yes,Placed
+379,Emily,103.0,Punjab Institute,3.88,Yes,Placed
+380,Mia,129.0,Punjab Institute,3.21,No,Placed
+381,Areeb,96.0,Tech Valley University,2.21,No,Not Placed
+382,Neha,114.0,City College,3.15,No,Placed
+383,Areeb,117.0,Tech Valley University,3.0,No,Not Placed
+384,Daniel,94.0,Global College,3.71,Yes,Placed
+385,Liam,89.0,Tech Valley University,3.06,Yes,Not Placed
+386,Neha,117.0,Global College,,Yes,Placed
+387,Sophia,92.0,National University,3.35,Yes,Placed
+388,Areeb,87.0,National University,3.09,Yes,Not Placed
+389,Sofia,90.0,Global College,2.47,No,Not Placed
+390,Emily,92.0,Global College,3.15,No,Placed
+391,Emily,,Tech Valley University,3.64,Yes,Placed
+392,Fatima,108.0,Global College,2.06,No,Not Placed
+393,John,111.0,City College,3.26,Yes,Placed
+394,Ali,106.0,National University,2.7,No,Not Placed
+395,Areeb,91.0,National University,2.59,No,Not Placed
+396,Mohammed,110.0,Global College,2.79,Yes,Not Placed
+397,Areeb,118.0,Punjab Institute,2.68,Yes,Not Placed
+398,John,109.0,Punjab Institute,3.66,No,Placed
+399,Ahmed,107.0,Global College,2.55,No,Not Placed
+400,Sophia,88.0,City College,3.47,No,Placed
+401,Mohammed,103.0,Punjab Institute,2.19,No,Not Placed
+402,Mia,88.0,Global College,3.9,No,Placed
+403,Ali,100.0,City College,3.24,Yes,Placed
+404,Areeb,75.0,City College,3.41,Yes,Placed
+405,Ravi,76.0,Tech Valley University,2.6,Yes,Not Placed
+406,John,97.0,City College,2.82,Yes,Placed
+407,Emily,92.0,Punjab Institute,2.45,Yes,Placed
+408,Emily,102.0,Punjab Institute,3.87,No,Placed
+409,Ahmed,98.0,Global College,2.98,Yes,Placed
+410,Liam,100.0,Global College,3.26,Yes,Placed
+411,Sophia,109.0,City College,3.47,No,Placed
+412,Sofia,93.0,National University,2.74,Yes,Placed
+413,Noah,97.0,Tech Valley University,3.44,Yes,Placed
+414,Nitesh,122.0,National University,3.35,No,Not Placed
+415,Ali,100.0,City College,3.41,No,Not Placed
+416,Ali,97.0,City College,2.98,Yes,Placed
+417,Mia,101.0,National University,2.77,Yes,Not Placed
+418,Hassan,98.0,Tech Valley University,2.44,,Not Placed
+419,Areeb,89.0,National University,3.65,Yes,Placed
+420,Sofia,85.0,Global College,3.22,Yes,Not Placed
+421,Nitesh,89.0,Punjab Institute,2.89,No,Placed
+422,Ali,113.0,Global College,3.89,Yes,Placed
+423,Ali,91.0,Punjab Institute,2.1,Yes,Not Placed
+424,Omar,98.0,City College,3.7,Yes,Placed
+425,Mohammed,111.0,Tech Valley University,4.0,No,Placed
+426,Hassan,96.0,National University,3.77,No,Placed
+427,Sofia,110.0,Tech Valley University,3.62,Yes,Placed
+428,Ravi,77.0,National University,2.75,Yes,Not Placed
+429,Sofia,98.0,Global College,2.46,Yes,Not Placed
+430,Neha,101.0,Global College,3.47,Yes,Not Placed
+431,Ahmed,100.0,National University,2.61,Yes,Not Placed
+432,Mia,75.0,Tech Valley University,2.35,No,Not Placed
+433,Noah,118.0,National University,3.57,Yes,Placed
+434,Nitesh,87.0,City College,2.63,Yes,Placed
+435,Liam,105.0,Global College,3.83,Yes,Placed
+436,Omar,100.0,City College,3.68,Yes,Placed
+437,Mohammed,115.0,Global College,3.7,Yes,Placed
+438,Ahmed,133.0,Global College,3.54,Yes,Placed
+439,Mia,81.0,Punjab Institute,3.76,No,Not Placed
+440,Zara,90.0,City College,3.61,No,Not Placed
+441,Fatima,103.0,City College,3.21,Yes,Placed
+442,John,83.0,Punjab Institute,2.59,Yes,Placed
+443,Noah,112.0,Tech Valley University,3.78,Yes,Placed
+444,Ravi,113.0,City College,3.68,Yes,Placed
+445,Hassan,108.0,National University,,No,Not Placed
+446,John,104.0,Punjab Institute,2.08,Yes,Not Placed
+447,John,121.0,City College,3.28,No,Placed
+448,Mohammed,83.0,Tech Valley University,2.1,No,Not Placed
+449,Areeb,101.0,City College,3.85,No,Placed
+450,Zara,89.0,Global College,3.92,No,Not Placed
+451,Nitesh,113.0,National University,2.38,Yes,Not Placed
+452,Liam,72.0,Punjab Institute,3.35,No,Not Placed
+453,Nitesh,100.0,Global College,2.18,No,Not Placed
+454,Emily,105.0,Tech Valley University,3.46,No,Not Placed
+455,John,86.0,Global College,2.69,Yes,Placed
+456,Noah,91.0,Global College,3.36,No,Placed
+457,Liam,100.0,Tech Valley University,2.75,Yes,Placed
+458,Fatima,114.0,Global College,2.29,No,Not Placed
+459,Areeb,85.0,Punjab Institute,2.81,Yes,Not Placed
+460,Sofia,87.0,City College,2.23,No,Placed
+461,Liam,117.0,Global College,3.15,Yes,Placed
+462,Ravi,96.0,Punjab Institute,2.08,Yes,Placed
+463,Nitesh,88.0,City College,3.05,Yes,Not Placed
+464,Zara,111.0,City College,3.77,Yes,Placed
+465,Liam,93.0,Global College,3.68,Yes,Placed
+466,Liam,115.0,Punjab Institute,3.77,Yes,Placed
+467,Sophia,90.0,Global College,3.84,No,Placed
+468,Emily,98.0,Tech Valley University,2.21,No,Not Placed
+469,Ravi,114.0,City College,2.26,No,Placed
+470,Mia,97.0,Global College,3.11,Yes,Not Placed
+471,Liam,111.0,City College,3.79,Yes,Placed
+472,John,99.0,Punjab Institute,3.95,Yes,Not Placed
+473,Sofia,130.0,National University,2.09,No,Placed
+474,Zara,124.0,Global College,2.71,No,Placed
+475,Mia,80.0,Global College,2.43,Yes,Placed
+476,Sofia,108.0,City College,3.51,Yes,Placed
+477,Zara,88.0,Punjab Institute,3.28,No,Not Placed
+478,Fatima,103.0,Tech Valley University,2.24,No,Placed
+479,Neha,101.0,Punjab Institute,,No,Placed
+480,Sophia,84.0,Global College,3.37,No,Not Placed
+481,Mia,116.0,Tech Valley University,3.56,Yes,Placed
+482,Daniel,103.0,Punjab Institute,2.04,Yes,Placed
+483,Emily,96.0,National University,3.78,Yes,Placed
+484,Areeb,93.0,City College,3.14,Yes,Placed
+485,Nitesh,102.0,Punjab Institute,3.62,Yes,Not Placed
+486,Sofia,106.0,Punjab Institute,3.62,,Not Placed
+487,Sophia,98.0,National University,2.38,Yes,Not Placed
+488,John,58.0,Global College,2.22,Yes,Not Placed
+489,Emily,100.0,City College,3.44,Yes,Placed
+490,Fatima,78.0,Punjab Institute,2.31,Yes,Placed
+491,Ravi,97.0,Tech Valley University,3.7,Yes,Placed
+492,Mohammed,79.0,Punjab Institute,3.45,No,Not Placed
+493,Fatima,79.0,City College,3.68,No,Not Placed
+494,Neha,119.0,Punjab Institute,2.6,Yes,Placed
+495,Areeb,95.0,National University,2.63,Yes,Not Placed
+496,Nitesh,94.0,Punjab Institute,3.34,Yes,Not Placed
+497,Hassan,107.0,Punjab Institute,2.06,No,Placed
+498,Hassan,94.0,Tech Valley University,3.45,Yes,Not Placed
+499,Noah,132.0,National University,3.67,Yes,Placed
+500,Daniel,96.0,National University,2.83,No,Not Placed
+501,Sofia,105.0,Punjab Institute,3.53,Yes,Placed
+502,Zara,115.0,Tech Valley University,2.35,Yes,Not Placed
+503,Mohammed,124.0,Punjab Institute,2.64,Yes,Placed
+504,Sofia,89.0,Punjab Institute,3.95,Yes,Placed
+505,Liam,94.0,City College,3.97,Yes,Not Placed
+506,Sara,119.0,City College,3.03,No,Not Placed
+507,Fatima,112.0,Tech Valley University,3.87,Yes,Placed
+508,Neha,116.0,Global College,3.05,No,Placed
+509,Ravi,79.0,City College,2.58,Yes,Not Placed
+510,Omar,123.0,Global College,2.53,Yes,Placed
+511,Mohammed,89.0,National University,3.86,Yes,Placed
+512,Zara,103.0,City College,2.34,Yes,Placed
+513,Noah,98.0,City College,3.16,Yes,Placed
+514,Ahmed,87.0,Tech Valley University,3.11,Yes,Not Placed
+515,Areeb,79.0,Global College,3.48,No,Placed
+516,Areeb,74.0,City College,3.0,Yes,Placed
+517,Sara,102.0,City College,2.54,Yes,Not Placed
+518,Mia,77.0,Tech Valley University,2.34,Yes,Not Placed
+519,Omar,83.0,Tech Valley University,3.24,Yes,Not Placed
+520,Emily,97.0,Global College,3.44,Yes,Placed
+521,Ravi,60.0,National University,3.14,Yes,Not Placed
+522,Ali,112.0,National University,3.48,Yes,Placed
+523,Sophia,64.0,Punjab Institute,,Yes,Not Placed
+524,Liam,99.0,City College,3.76,No,Placed
+525,Fatima,100.0,Global College,3.16,Yes,Not Placed
+526,Ravi,108.0,City College,2.25,Yes,Placed
+527,John,99.0,Global College,2.92,No,Placed
+528,John,130.0,Global College,3.69,No,Placed
+529,Sara,103.0,Global College,3.8,No,Placed
+530,Mia,116.0,City College,2.53,Yes,Placed
+531,Sofia,89.0,Tech Valley University,3.42,No,Not Placed
+532,Fatima,,City College,2.2,Yes,Placed
+533,Mohammed,,Global College,2.07,Yes,Not Placed
+534,Mia,96.0,Punjab Institute,3.12,No,Placed
+535,Fatima,103.0,National University,3.39,Yes,Placed
+536,Nitesh,115.0,Global College,3.59,No,Not Placed
+537,Ravi,89.0,Punjab Institute,2.68,No,Not Placed
+538,Ravi,68.0,Tech Valley University,2.01,No,Not Placed
+539,Noah,104.0,Global College,2.96,No,Placed
+540,Sophia,115.0,Punjab Institute,2.03,Yes,Not Placed
+541,Omar,80.0,Global College,2.18,Yes,Not Placed
+542,Zara,110.0,City College,2.65,No,Placed
+543,Fatima,110.0,Punjab Institute,2.87,No,Not Placed
+544,Ali,66.0,City College,2.56,No,Not Placed
+545,Nitesh,86.0,City College,3.16,No,Placed
+546,Ravi,94.0,Punjab Institute,2.11,No,Not Placed
+547,Liam,97.0,National University,2.29,No,Not Placed
+548,Ali,89.0,Punjab Institute,3.39,Yes,Placed
+549,Sara,88.0,National University,2.28,Yes,Not Placed
+550,Sara,125.0,Global College,3.28,No,Placed
+551,Sofia,98.0,Global College,2.11,Yes,Not Placed
+552,Ravi,90.0,Punjab Institute,2.81,,Not Placed
+553,Ravi,99.0,Global College,2.35,Yes,Placed
+554,Daniel,108.0,Tech Valley University,2.22,No,Placed
+555,Emily,101.0,City College,3.13,No,Placed
+556,Hassan,97.0,City College,3.86,No,Placed
+557,Areeb,90.0,National University,2.11,Yes,Not Placed
+558,John,90.0,Global College,2.84,No,Placed
+559,Nitesh,,National University,3.42,No,Placed
+560,Mia,105.0,City College,2.93,Yes,Placed
+561,Sophia,85.0,City College,3.61,Yes,Placed
+562,Noah,106.0,Global College,2.36,Yes,Placed
+563,Daniel,121.0,Tech Valley University,3.92,Yes,Placed
+564,Zara,105.0,Tech Valley University,2.77,No,Not Placed
+565,Liam,94.0,Global College,2.68,Yes,Not Placed
+566,Neha,81.0,Global College,3.75,No,Not Placed
+567,Daniel,124.0,National University,3.13,Yes,Placed
+568,Ali,82.0,Global College,3.03,Yes,Not Placed
+569,Nitesh,113.0,Tech Valley University,3.45,Yes,Not Placed
+570,Emily,110.0,Global College,3.16,Yes,Placed
+571,Hassan,96.0,National University,2.33,Yes,Placed
+572,Sofia,96.0,National University,3.35,Yes,Placed
+573,Mohammed,72.0,National University,2.27,Yes,Not Placed
+574,Emily,105.0,National University,3.61,Yes,Placed
+575,Omar,109.0,Punjab Institute,3.98,No,Placed
+576,Sara,84.0,Global College,2.75,Yes,Not Placed
+577,Sofia,98.0,City College,2.89,Yes,Placed
+578,Omar,101.0,Global College,2.09,No,Placed
+579,John,109.0,Punjab Institute,2.03,Yes,Placed
+580,Omar,100.0,National University,3.84,,Placed
+581,Noah,76.0,Punjab Institute,2.26,No,Not Placed
+582,Areeb,92.0,Tech Valley University,2.89,Yes,Not Placed
+583,Zara,103.0,Tech Valley University,3.63,No,Not Placed
+584,John,113.0,Global College,3.78,No,Not Placed
+585,Liam,91.0,Global College,3.04,No,Not Placed
+586,Zara,133.0,City College,3.13,No,Not Placed
+587,Ali,72.0,City College,3.34,Yes,Not Placed
+588,Sophia,92.0,Tech Valley University,3.92,No,Not Placed
+589,Ravi,99.0,National University,3.21,Yes,Not Placed
+590,Emily,97.0,Punjab Institute,,Yes,Placed
+591,Ravi,82.0,City College,2.03,Yes,Not Placed
+592,Neha,107.0,City College,2.16,Yes,Not Placed
+593,Nitesh,106.0,National University,3.15,Yes,Placed
+594,Sara,101.0,National University,3.87,No,Placed
+595,Noah,105.0,Global College,3.73,No,Placed
+596,Mia,94.0,Punjab Institute,3.97,Yes,Placed
+597,Areeb,76.0,National University,3.06,No,Not Placed
+598,Daniel,89.0,City College,3.58,No,Placed
+599,Ahmed,102.0,City College,3.68,Yes,Placed
+600,Mohammed,102.0,Tech Valley University,3.3,Yes,Placed
+601,Noah,101.0,National University,2.68,No,Not Placed
+602,Ravi,108.0,Global College,2.94,No,Not Placed
+603,Areeb,91.0,Punjab Institute,3.72,No,Not Placed
+604,Ali,100.0,Global College,2.6,No,Not Placed
+605,Ali,109.0,City College,3.85,Yes,Placed
+606,Noah,99.0,Global College,2.46,Yes,Placed
+607,Daniel,81.0,City College,3.5,Yes,Placed
+608,Liam,86.0,City College,3.26,Yes,Not Placed
+609,Hassan,112.0,City College,3.5,No,Not Placed
+610,Liam,121.0,City College,2.87,No,Placed
+611,Ravi,118.0,City College,3.87,Yes,Placed
+612,Ali,103.0,Tech Valley University,3.26,No,Placed
+613,Ahmed,82.0,Global College,2.58,Yes,Not Placed
+614,Zara,100.0,Tech Valley University,3.28,No,Placed
+615,Nitesh,123.0,Tech Valley University,2.57,No,Placed
+616,Ali,109.0,National University,2.59,No,Not Placed
+617,Emily,97.0,National University,2.8,No,Not Placed
+618,Sara,109.0,National University,3.7,Yes,Placed
+619,Liam,81.0,Punjab Institute,3.0,No,Not Placed
+620,Areeb,90.0,National University,3.36,No,Not Placed
+621,Areeb,84.0,Global College,2.78,Yes,Not Placed
+622,Sara,107.0,Tech Valley University,2.53,No,Not Placed
+623,Nitesh,111.0,Global College,3.91,No,Placed
+624,Areeb,98.0,National University,3.21,Yes,Placed
+625,Areeb,87.0,Punjab Institute,3.87,Yes,Placed
+626,Mohammed,100.0,Punjab Institute,2.41,No,Placed
+627,Mohammed,93.0,Tech Valley University,2.29,No,Not Placed
+628,Mia,88.0,Global College,3.71,Yes,Placed
+629,Liam,105.0,City College,3.36,Yes,Placed
+630,Neha,89.0,Global College,2.37,Yes,Placed
+631,Zara,77.0,National University,2.54,No,Not Placed
+632,Neha,80.0,City College,3.6,No,Placed
+633,Ali,76.0,Punjab Institute,2.91,Yes,Not Placed
+634,Mia,104.0,Tech Valley University,3.34,Yes,Not Placed
+635,Ravi,102.0,Tech Valley University,2.64,Yes,Not Placed
+636,Ravi,102.0,Punjab Institute,2.76,No,Placed
+637,John,109.0,National University,3.98,Yes,Placed
+638,Ali,118.0,Punjab Institute,2.5,Yes,Not Placed
+639,Liam,91.0,National University,3.01,Yes,Placed
+640,Omar,106.0,City College,3.69,No,Placed
+641,Ahmed,76.0,Punjab Institute,2.48,Yes,Not Placed
+642,Omar,121.0,National University,2.83,Yes,Placed
+643,Fatima,81.0,City College,3.23,No,Placed
+644,Ahmed,89.0,Punjab Institute,2.96,Yes,Placed
+645,Nitesh,91.0,Tech Valley University,2.92,Yes,Placed
+646,Noah,77.0,Punjab Institute,2.73,No,Not Placed
+647,Sofia,100.0,Global College,3.17,Yes,Placed
+648,Ali,103.0,Punjab Institute,3.25,Yes,Not Placed
+649,Sofia,97.0,Global College,3.31,Yes,Placed
+650,Areeb,77.0,City College,2.14,No,Not Placed
+651,Liam,130.0,Punjab Institute,3.26,Yes,Placed
+652,Emily,108.0,City College,3.91,No,Placed
+653,Daniel,140.0,City College,3.08,Yes,Placed
+654,Daniel,88.0,National University,3.43,Yes,Placed
+655,Areeb,114.0,City College,3.11,No,Not Placed
+656,Neha,112.0,City College,3.71,No,Not Placed
+657,Ahmed,96.0,Punjab Institute,3.86,Yes,Placed
+658,Hassan,121.0,Punjab Institute,2.37,No,Placed
+659,Mia,94.0,Tech Valley University,2.87,Yes,Not Placed
+660,Fatima,95.0,National University,2.78,Yes,Not Placed
+661,Sara,48.0,City College,2.81,Yes,Placed
+662,Ahmed,106.0,National University,2.25,No,Not Placed
+663,Sara,80.0,Global College,3.63,Yes,Placed
+664,Noah,92.0,City College,2.07,Yes,Not Placed
+665,Ahmed,85.0,National University,3.06,Yes,Placed
+666,Noah,95.0,Tech Valley University,3.32,,Placed
+667,Daniel,107.0,Tech Valley University,2.41,No,Placed
+668,Mia,,City College,3.81,No,Not Placed
+669,Ahmed,111.0,Global College,3.68,No,Not Placed
+670,Sophia,119.0,Tech Valley University,2.94,Yes,Placed
+671,Sara,94.0,Tech Valley University,2.82,Yes,Placed
+672,Ali,93.0,Global College,2.47,No,Not Placed
+673,Daniel,114.0,National University,3.46,No,Not Placed
+674,Mohammed,116.0,Tech Valley University,2.26,Yes,Not Placed
+675,Mia,111.0,Punjab Institute,3.36,No,Not Placed
+676,Liam,86.0,Tech Valley University,,No,Not Placed
+677,Areeb,106.0,National University,2.46,No,Not Placed
+678,John,102.0,National University,3.73,Yes,Placed
+679,Mohammed,116.0,City College,2.07,Yes,Not Placed
+680,Liam,91.0,Punjab Institute,3.83,,Placed
+681,Mohammed,75.0,National University,2.24,Yes,Not Placed
+682,Liam,110.0,Global College,3.29,Yes,Not Placed
+683,Sophia,62.0,Punjab Institute,2.5,Yes,Not Placed
+684,Areeb,89.0,Punjab Institute,3.67,No,Placed
+685,Ahmed,85.0,Global College,3.02,Yes,Placed
+686,Sara,85.0,Tech Valley University,2.27,Yes,Placed
+687,Ahmed,89.0,Global College,3.14,No,Not Placed
+688,Ravi,118.0,Global College,2.82,No,Placed
+689,Hassan,112.0,Tech Valley University,3.32,No,Placed
+690,Hassan,96.0,Tech Valley University,3.76,Yes,Placed
+691,Emily,117.0,Tech Valley University,2.82,No,Not Placed
+692,Hassan,84.0,Tech Valley University,2.58,Yes,Not Placed
+693,Mia,82.0,Tech Valley University,2.03,Yes,Not Placed
+694,Daniel,113.0,Global College,3.15,No,Not Placed
+695,Emily,109.0,City College,2.8,Yes,Placed
+696,Hassan,93.0,City College,2.75,Yes,Not Placed
+697,Emily,83.0,National University,2.37,Yes,Not Placed
+698,Omar,122.0,City College,2.86,Yes,Not Placed
+699,John,74.0,City College,3.97,Yes,Placed
+700,Omar,91.0,Global College,2.6,No,Not Placed
+701,John,103.0,Tech Valley University,3.2,Yes,Placed
+702,Nitesh,127.0,Tech Valley University,3.55,No,Placed
+703,Nitesh,106.0,Global College,3.5,Yes,Placed
+704,Noah,107.0,City College,2.66,,Placed
+705,Mia,91.0,Global College,,Yes,Not Placed
+706,Mia,109.0,National University,3.74,Yes,Placed
+707,Areeb,102.0,Tech Valley University,2.03,No,Not Placed
+708,Noah,76.0,Punjab Institute,2.87,Yes,Not Placed
+709,Mohammed,112.0,National University,2.45,Yes,Not Placed
+710,Sara,115.0,National University,2.78,No,Placed
+711,Ali,112.0,Global College,2.83,Yes,Placed
+712,Areeb,100.0,City College,3.49,No,Placed
+713,Zara,86.0,Tech Valley University,2.19,No,Not Placed
+714,Sofia,65.0,Punjab Institute,3.03,Yes,Not Placed
+715,Neha,102.0,National University,3.13,Yes,Not Placed
+716,Ahmed,116.0,Punjab Institute,2.99,Yes,Placed
+717,Liam,115.0,City College,3.46,No,Placed
+718,Neha,112.0,City College,2.77,Yes,Placed
+719,Ravi,99.0,Punjab Institute,3.89,Yes,Placed
+720,Zara,116.0,Tech Valley University,2.96,Yes,Placed
+721,Daniel,114.0,City College,3.14,Yes,Placed
+722,Daniel,94.0,Punjab Institute,3.65,Yes,Placed
+723,Hassan,110.0,National University,2.55,No,Not Placed
+724,Emily,92.0,Punjab Institute,2.15,Yes,Not Placed
+725,Liam,108.0,Punjab Institute,3.42,No,Placed
+726,John,81.0,Global College,2.97,No,Not Placed
+727,Ali,82.0,City College,3.79,Yes,Placed
+728,Omar,116.0,Tech Valley University,3.97,Yes,Placed
+729,Liam,114.0,Tech Valley University,2.8,Yes,Placed
+730,Nitesh,110.0,Global College,2.83,No,Placed
+731,Sophia,101.0,Tech Valley University,2.82,Yes,Placed
+732,Daniel,64.0,Punjab Institute,2.65,No,Not Placed
+733,Daniel,99.0,Global College,3.56,No,Not Placed
+734,Neha,107.0,National University,3.52,Yes,Placed
+735,Neha,92.0,City College,2.96,No,Not Placed
+736,Ahmed,89.0,City College,2.09,Yes,Placed
+737,Ravi,122.0,City College,2.62,No,Not Placed
+738,Neha,99.0,Punjab Institute,2.58,Yes,Not Placed
+739,Mia,107.0,National University,3.62,Yes,Placed
+740,Fatima,112.0,Global College,2.18,Yes,Not Placed
+741,Nitesh,85.0,Global College,3.61,No,Placed
+742,Daniel,103.0,City College,3.34,Yes,Placed
+743,Neha,120.0,National University,3.46,No,Placed
+744,Hassan,127.0,National University,2.86,Yes,Placed
+745,Daniel,101.0,National University,3.36,Yes,Not Placed
+746,Ravi,96.0,Tech Valley University,3.22,Yes,Placed
+747,Noah,104.0,Tech Valley University,3.54,Yes,Not Placed
+748,Sara,104.0,City College,2.89,Yes,Placed
+749,Nitesh,121.0,National University,2.95,Yes,Placed
+750,Mia,85.0,National University,3.29,No,Not Placed
+751,Daniel,96.0,Global College,2.22,Yes,Not Placed
+752,Areeb,83.0,Global College,2.87,Yes,Not Placed
+753,Mohammed,85.0,City College,3.94,Yes,Placed
+754,Fatima,106.0,National University,2.08,No,Not Placed
+755,Liam,112.0,City College,2.63,Yes,Placed
+756,Fatima,90.0,Global College,2.63,Yes,Not Placed
+757,Sofia,112.0,Global College,3.27,Yes,Placed
+758,Liam,117.0,Tech Valley University,2.21,No,Placed
+759,Ravi,129.0,City College,3.26,No,Placed
+760,Sophia,101.0,City College,2.19,Yes,Placed
+761,John,90.0,National University,2.19,Yes,Not Placed
+762,Mohammed,85.0,National University,3.46,No,Not Placed
+763,Nitesh,83.0,Tech Valley University,2.65,No,Not Placed
+764,Zara,119.0,Punjab Institute,3.95,No,Placed
+765,Ravi,77.0,Punjab Institute,2.07,No,Not Placed
+766,Noah,118.0,Punjab Institute,2.89,No,Placed
+767,Daniel,87.0,City College,2.23,No,Not Placed
+768,John,90.0,City College,2.7,Yes,Not Placed
+769,Daniel,98.0,Global College,4.0,Yes,Placed
+770,Ahmed,89.0,City College,3.78,Yes,Placed
+771,Daniel,114.0,City College,2.1,No,Not Placed
+772,Omar,127.0,City College,3.13,No,Not Placed
+773,Omar,90.0,Tech Valley University,3.3,No,Not Placed
+774,Liam,94.0,City College,2.42,Yes,Not Placed
+775,Sofia,98.0,National University,2.29,Yes,Placed
+776,Mia,108.0,National University,3.81,Yes,Placed
+777,Mohammed,98.0,Global College,3.94,Yes,Not Placed
+778,Zara,121.0,Tech Valley University,3.98,No,Placed
+779,Areeb,117.0,National University,3.58,No,Placed
+780,Sara,,Tech Valley University,3.33,Yes,Placed
+781,Sophia,108.0,Tech Valley University,2.69,Yes,Not Placed
+782,Ahmed,123.0,Global College,2.34,No,Placed
+783,Ravi,93.0,Tech Valley University,2.16,Yes,Placed
+784,Sara,96.0,City College,3.39,No,Placed
+785,Areeb,92.0,Tech Valley University,3.57,Yes,Placed
+786,Ali,92.0,Global College,3.65,Yes,Placed
+787,Sara,75.0,Global College,3.83,Yes,Placed
+788,Sara,80.0,Global College,3.76,Yes,Not Placed
+789,Emily,101.0,National University,4.0,Yes,Placed
+790,John,123.0,City College,2.49,Yes,Placed
+791,Hassan,91.0,National University,3.53,Yes,Placed
+792,Zara,90.0,Punjab Institute,3.17,Yes,Not Placed
+793,Nitesh,126.0,City College,2.52,Yes,Placed
+794,Mia,83.0,Tech Valley University,3.96,Yes,Placed
+795,Omar,75.0,Global College,3.8,Yes,Placed
+796,Areeb,88.0,Punjab Institute,2.26,No,Placed
+797,John,90.0,City College,2.05,No,Not Placed
+798,Sara,74.0,National University,3.38,Yes,Not Placed
+799,Ahmed,98.0,Global College,3.21,Yes,Not Placed
+800,Sophia,114.0,National University,3.87,Yes,Placed
+801,Hassan,81.0,City College,2.47,Yes,Not Placed
+802,John,101.0,City College,2.17,No,Placed
+803,Daniel,106.0,Punjab Institute,2.52,No,Not Placed
+804,Sara,99.0,Tech Valley University,2.04,No,Placed
+805,Liam,103.0,National University,2.07,Yes,Not Placed
+806,Sara,103.0,Punjab Institute,3.83,Yes,Placed
+807,Mia,88.0,Global College,2.7,No,Placed
+808,Ahmed,122.0,Tech Valley University,2.82,Yes,Placed
+809,Daniel,119.0,Punjab Institute,2.04,Yes,Placed
+810,Hassan,118.0,National University,2.54,No,Placed
+811,Omar,115.0,City College,3.61,No,Not Placed
+812,Mia,76.0,Global College,3.23,No,Placed
+813,Ravi,114.0,National University,3.51,Yes,Placed
+814,Sofia,110.0,Tech Valley University,2.89,Yes,Placed
+815,Areeb,77.0,Tech Valley University,2.62,Yes,Not Placed
+816,Sara,,City College,2.97,No,Placed
+817,John,104.0,City College,2.65,Yes,Placed
+818,Mia,125.0,Global College,,No,Not Placed
+819,Sophia,111.0,Global College,2.6,No,Placed
+820,Ali,87.0,City College,3.32,Yes,Placed
+821,Sophia,125.0,City College,2.27,Yes,Not Placed
+822,Liam,101.0,Tech Valley University,3.37,Yes,Placed
+823,Sofia,96.0,City College,3.83,No,Not Placed
+824,Daniel,95.0,Punjab Institute,3.22,No,Placed
+825,Ali,76.0,National University,3.12,No,Not Placed
+826,Neha,98.0,City College,3.92,Yes,Not Placed
+827,Sara,107.0,Global College,3.25,Yes,Placed
+828,Areeb,94.0,Punjab Institute,2.52,No,Placed
+829,Hassan,106.0,Global College,2.58,Yes,Not Placed
+830,John,87.0,Punjab Institute,3.41,No,Not Placed
+831,Ravi,98.0,City College,3.47,No,Not Placed
+832,Hassan,105.0,National University,2.61,Yes,Not Placed
+833,Nitesh,103.0,Global College,,Yes,Not Placed
+834,Ali,76.0,Punjab Institute,3.98,Yes,Not Placed
+835,Sara,93.0,Tech Valley University,2.2,Yes,Placed
+836,Noah,125.0,City College,2.81,No,Placed
+837,Mohammed,93.0,National University,2.12,No,Not Placed
+838,Areeb,100.0,City College,3.64,No,Not Placed
+839,Mohammed,99.0,Tech Valley University,2.18,No,Not Placed
+840,Sofia,124.0,National University,3.35,Yes,Not Placed
+841,Ahmed,119.0,Tech Valley University,2.11,Yes,Not Placed
+842,Ravi,112.0,City College,3.35,No,Placed
+843,Omar,85.0,Punjab Institute,3.69,Yes,Not Placed
+844,Ahmed,105.0,City College,2.8,No,Not Placed
+845,Sophia,109.0,City College,3.04,No,Placed
+846,Ali,90.0,City College,2.8,Yes,Placed
+847,Areeb,87.0,Global College,2.6,Yes,Not Placed
+848,Zara,126.0,Tech Valley University,3.61,Yes,Not Placed
+849,Liam,95.0,Tech Valley University,2.54,No,Not Placed
+850,Zara,124.0,Tech Valley University,3.45,Yes,Placed
+851,Hassan,115.0,Global College,2.41,No,Not Placed
+852,Daniel,106.0,Punjab Institute,2.5,Yes,Not Placed
+853,Sara,107.0,City College,2.67,No,Not Placed
+854,Nitesh,79.0,Punjab Institute,3.18,Yes,Not Placed
+855,Liam,103.0,Global College,2.91,Yes,Not Placed
+856,Areeb,121.0,Tech Valley University,3.49,No,Placed
+857,Sofia,110.0,City College,2.43,No,Not Placed
+858,Noah,102.0,National University,2.02,Yes,Placed
+859,Neha,126.0,National University,3.55,No,Not Placed
+860,Hassan,97.0,Punjab Institute,3.64,No,Placed
+861,Zara,91.0,Tech Valley University,2.12,Yes,Not Placed
+862,Ahmed,102.0,National University,3.22,Yes,Placed
+863,Sofia,111.0,Punjab Institute,2.76,No,Not Placed
+864,Nitesh,74.0,Global College,3.59,Yes,Placed
+865,Nitesh,104.0,Punjab Institute,3.75,Yes,Placed
+866,Ali,112.0,Punjab Institute,3.7,No,Placed
+867,Omar,96.0,Punjab Institute,3.55,Yes,Not Placed
+868,Omar,117.0,City College,2.54,Yes,Placed
+869,Hassan,110.0,Punjab Institute,3.62,No,Not Placed
+870,Zara,132.0,Punjab Institute,3.07,Yes,Placed
+871,Areeb,89.0,City College,2.11,No,Not Placed
+872,Neha,112.0,City College,2.91,No,Not Placed
+873,Nitesh,85.0,Global College,3.88,Yes,Not Placed
+874,Areeb,76.0,Tech Valley University,3.78,Yes,Placed
+875,Areeb,69.0,National University,2.2,,Placed
+876,Mia,108.0,National University,3.49,Yes,Not Placed
+877,Neha,103.0,Punjab Institute,3.61,No,Placed
+878,John,93.0,Global College,2.54,No,Not Placed
+879,Ravi,73.0,Punjab Institute,2.94,,Placed
+880,Mohammed,90.0,National University,3.42,Yes,Not Placed
+881,Noah,100.0,City College,2.88,Yes,Placed
+882,Omar,112.0,Tech Valley University,2.23,Yes,Not Placed
+883,Omar,100.0,Global College,3.41,Yes,Placed
+884,Fatima,104.0,City College,3.82,Yes,Placed
+885,Omar,94.0,Tech Valley University,3.3,No,Placed
+886,Neha,126.0,Global College,3.55,Yes,Placed
+887,Mia,85.0,Global College,2.72,Yes,Not Placed
+888,Sara,90.0,National University,2.37,No,Not Placed
+889,Ali,93.0,City College,3.29,Yes,Placed
+890,Daniel,108.0,Global College,2.66,Yes,Not Placed
+891,Ali,84.0,Global College,3.72,Yes,Placed
+892,Liam,102.0,Tech Valley University,2.25,Yes,Placed
+893,Ali,102.0,National University,2.87,Yes,Placed
+894,Daniel,90.0,Punjab Institute,2.79,No,Not Placed
+895,Ahmed,105.0,National University,3.88,Yes,Not Placed
+896,Neha,85.0,Punjab Institute,2.31,No,Not Placed
+897,Omar,83.0,City College,2.02,Yes,Not Placed
+898,Omar,101.0,City College,2.48,Yes,Placed
+899,Mia,75.0,Global College,3.64,Yes,Placed
+900,Fatima,68.0,City College,2.42,Yes,Not Placed
+901,Mia,108.0,Global College,2.48,Yes,Placed
+902,Sara,116.0,National University,2.26,Yes,Not Placed
+903,Sara,93.0,City College,3.43,Yes,Not Placed
+904,Nitesh,90.0,National University,2.14,Yes,Not Placed
+905,Fatima,115.0,National University,2.66,Yes,Placed
+906,Mia,83.0,City College,2.56,Yes,Placed
+907,Omar,80.0,National University,3.11,Yes,Not Placed
+908,Mohammed,111.0,City College,3.46,No,Placed
+909,Sophia,100.0,City College,3.07,No,Not Placed
+910,Daniel,116.0,City College,3.86,Yes,Placed
+911,Daniel,68.0,Punjab Institute,3.9,Yes,Placed
+912,Ali,79.0,National University,2.72,Yes,Placed
+913,Sophia,100.0,Tech Valley University,3.56,No,Not Placed
+914,Fatima,106.0,City College,3.48,Yes,Not Placed
+915,John,113.0,National University,3.79,No,Placed
+916,Sara,103.0,Global College,2.9,Yes,Not Placed
+917,Ali,102.0,City College,3.06,Yes,Placed
+918,Areeb,94.0,City College,2.83,Yes,Placed
+919,Ali,124.0,Tech Valley University,3.7,Yes,Placed
+920,John,,Punjab Institute,2.46,No,Not Placed
+921,Ahmed,105.0,Punjab Institute,2.48,Yes,Placed
+922,Mohammed,85.0,City College,2.75,Yes,Placed
+923,Areeb,108.0,National University,2.46,Yes,Not Placed
+924,Mohammed,,Global College,3.12,No,Not Placed
+925,Ali,111.0,Global College,2.27,Yes,Not Placed
+926,Sara,102.0,National University,2.64,Yes,Placed
+927,Ravi,126.0,City College,3.83,Yes,Placed
+928,Daniel,96.0,Global College,2.82,Yes,Placed
+929,John,106.0,Punjab Institute,3.5,No,Not Placed
+930,Ravi,88.0,National University,2.23,Yes,Placed
+931,Sophia,96.0,Tech Valley University,2.5,Yes,Placed
+932,Daniel,102.0,City College,3.61,Yes,Placed
+933,Omar,77.0,National University,3.53,No,Not Placed
+934,Areeb,79.0,Global College,2.77,Yes,Not Placed
+935,Daniel,109.0,City College,3.91,Yes,Placed
+936,John,98.0,Punjab Institute,3.82,No,Placed
+937,Sofia,91.0,City College,3.92,Yes,Not Placed
+938,Ravi,89.0,City College,2.86,No,Placed
+939,Ahmed,90.0,Punjab Institute,2.39,Yes,Not Placed
+940,Mia,102.0,Punjab Institute,3.25,Yes,Not Placed
+941,Mia,107.0,City College,3.37,No,Placed
+942,John,69.0,Punjab Institute,2.25,No,Placed
+943,John,121.0,National University,3.57,Yes,Placed
+944,Hassan,120.0,Punjab Institute,2.04,No,Placed
+945,Areeb,65.0,Punjab Institute,2.97,Yes,Not Placed
+946,Sophia,116.0,City College,2.66,No,Not Placed
+947,Hassan,116.0,National University,3.48,Yes,Placed
+948,Mohammed,100.0,Tech Valley University,2.63,Yes,Placed
+949,Omar,81.0,Tech Valley University,3.65,No,Not Placed
+950,Sara,115.0,Global College,3.19,No,Not Placed
+951,Sara,96.0,Punjab Institute,3.59,Yes,Not Placed
+952,Omar,108.0,Punjab Institute,3.98,Yes,Placed
+953,Daniel,133.0,National University,3.36,Yes,Placed
+954,Neha,104.0,Tech Valley University,,Yes,Not Placed
+955,Hassan,86.0,Global College,2.06,Yes,Not Placed
+956,Sofia,95.0,National University,2.68,Yes,Placed
+957,Ravi,88.0,Punjab Institute,2.22,Yes,Placed
+958,Omar,107.0,Tech Valley University,2.52,No,Not Placed
+959,Noah,88.0,Global College,3.68,Yes,Placed
+960,Ali,93.0,City College,2.06,Yes,Not Placed
+961,Daniel,81.0,Tech Valley University,3.04,Yes,Not Placed
+962,Omar,98.0,Global College,3.13,No,Placed
+963,Hassan,103.0,National University,3.12,Yes,Placed
+964,Sofia,60.0,City College,2.95,Yes,Placed
+965,Sofia,104.0,Global College,3.58,No,Placed
+966,John,99.0,Global College,2.27,No,Not Placed
+967,Emily,89.0,Punjab Institute,2.62,No,Not Placed
+968,John,130.0,Tech Valley University,3.23,No,Placed
+969,Areeb,114.0,Punjab Institute,3.38,No,Not Placed
+970,Areeb,84.0,City College,2.81,No,Placed
+971,Omar,113.0,Global College,3.75,Yes,Placed
+972,Mohammed,119.0,Punjab Institute,2.83,Yes,Placed
+973,Liam,102.0,Tech Valley University,2.81,Yes,Placed
+974,Zara,105.0,City College,2.07,Yes,Not Placed
+975,Mia,105.0,National University,3.1,Yes,Not Placed
+976,Neha,69.0,Punjab Institute,3.42,Yes,Placed
+977,Omar,97.0,City College,2.23,No,Not Placed
+978,Zara,96.0,National University,2.61,Yes,Placed
+979,Hassan,121.0,Punjab Institute,3.56,Yes,Placed
+980,Ali,105.0,City College,2.73,No,Not Placed
+981,Neha,96.0,City College,,Yes,Not Placed
+982,Areeb,99.0,Punjab Institute,3.34,Yes,Not Placed
+983,Neha,115.0,City College,2.39,Yes,Placed
+984,John,97.0,Global College,3.79,No,Placed
+985,Ali,90.0,Punjab Institute,2.21,Yes,Placed
+986,Mia,96.0,City College,3.41,No,Placed
+987,Omar,114.0,National University,3.0,,Placed
+988,Daniel,107.0,National University,3.74,Yes,Placed
+989,Daniel,101.0,Global College,2.25,Yes,Placed
+990,Zara,103.0,Punjab Institute,3.36,No,Not Placed
+991,Zara,92.0,City College,3.14,No,Not Placed
+992,Mohammed,97.0,City College,2.96,No,Placed
+993,Sophia,90.0,National University,2.98,No,Not Placed
+994,Zara,96.0,Global College,3.44,Yes,Placed
+995,Nitesh,120.0,National University,3.88,No,Placed
+996,Sophia,84.0,National University,2.18,Yes,Not Placed
+997,Hassan,90.0,Global College,2.04,No,Not Placed
+998,Sara,81.0,Punjab Institute,3.61,Yes,Not Placed
+999,Ahmed,78.0,City College,2.22,Yes,Placed
+1000,Fatima,97.0,Punjab Institute,3.97,Yes,Placed
+1001,Noah,91.0,Tech Valley University,3.24,Yes,Placed
+1002,Ahmed,126.0,Tech Valley University,3.3,Yes,Placed
+1003,Liam,96.0,Tech Valley University,2.4,No,Not Placed
+1004,Hassan,119.0,Global College,2.48,Yes,Not Placed
+1005,Sofia,115.0,National University,3.32,Yes,Not Placed
+1006,Mia,97.0,Punjab Institute,3.82,No,Placed
+1007,Fatima,132.0,City College,3.96,Yes,Placed
+1008,Sophia,104.0,Tech Valley University,2.4,No,Not Placed
+1009,Sara,123.0,Punjab Institute,2.27,Yes,Not Placed
+1010,Ali,121.0,Tech Valley University,2.11,No,Not Placed
+1011,Liam,,Tech Valley University,3.74,Yes,Placed
+1012,Hassan,111.0,City College,2.59,Yes,Placed
+1013,Noah,109.0,Global College,2.0,Yes,Not Placed
+1014,Liam,83.0,National University,2.45,Yes,Not Placed
+1015,Fatima,101.0,Global College,2.68,No,Not Placed
+1016,Liam,116.0,Punjab Institute,3.98,Yes,Placed
+1017,Sophia,123.0,Global College,3.05,Yes,Placed
+1018,Zara,89.0,Punjab Institute,2.41,Yes,Not Placed
+1019,Liam,108.0,Punjab Institute,2.67,No,Not Placed
+1020,Sophia,102.0,National University,2.66,Yes,Not Placed
+1021,Omar,98.0,City College,2.04,No,Not Placed
+1022,Liam,105.0,National University,2.27,Yes,Placed
+1023,Fatima,103.0,Global College,3.39,Yes,Placed
+1024,Ali,108.0,Punjab Institute,2.24,Yes,Placed
+1025,Ravi,122.0,Tech Valley University,2.46,No,Not Placed
+1026,Mia,112.0,Tech Valley University,2.7,No,Placed
+1027,Mia,105.0,Punjab Institute,3.52,Yes,Placed
+1028,Liam,128.0,National University,3.16,Yes,Not Placed
+1029,Ravi,117.0,City College,3.38,No,Placed
+1030,Emily,,National University,3.13,Yes,Not Placed
+1031,Omar,82.0,Punjab Institute,3.37,Yes,Placed
+1032,Mia,85.0,Punjab Institute,2.01,Yes,Not Placed
+1033,Noah,114.0,City College,3.86,Yes,Placed
+1034,Ali,91.0,Global College,2.22,Yes,Placed
+1035,Neha,85.0,Global College,2.81,Yes,Not Placed
+1036,Mia,89.0,City College,3.54,Yes,Placed
+1037,Daniel,90.0,Global College,2.87,No,Not Placed
+1038,Noah,113.0,Tech Valley University,3.89,Yes,Placed
+1039,Ahmed,98.0,Global College,2.94,No,Not Placed
+1040,Liam,79.0,Global College,3.75,Yes,Not Placed
+1041,Noah,100.0,Global College,3.62,No,Placed
+1042,Sara,103.0,Tech Valley University,3.96,Yes,Placed
+1043,Mia,93.0,Global College,3.85,No,Not Placed
+1044,John,117.0,Tech Valley University,3.8,Yes,Placed
+1045,Ali,94.0,City College,3.46,No,Placed
+1046,Omar,117.0,National University,2.73,Yes,Placed
+1047,Fatima,109.0,City College,,Yes,Placed
+1048,Nitesh,114.0,National University,3.38,No,Placed
+1049,Mohammed,84.0,City College,3.96,Yes,Not Placed
+1050,Mohammed,101.0,National University,3.45,,Not Placed
+1051,Mia,99.0,National University,3.86,No,Not Placed
+1052,Neha,79.0,Punjab Institute,3.61,Yes,Placed
+1053,Ahmed,117.0,National University,2.33,Yes,Placed
+1054,Ali,88.0,National University,2.5,No,Not Placed
+1055,Noah,91.0,Punjab Institute,2.68,,Placed
+1056,Fatima,85.0,Global College,2.34,No,Not Placed
+1057,Omar,111.0,Global College,3.16,Yes,Placed
+1058,Ali,77.0,Punjab Institute,3.95,No,Not Placed
+1059,Nitesh,109.0,Tech Valley University,3.52,Yes,Placed
+1060,Omar,116.0,National University,2.85,No,Placed
+1061,Daniel,108.0,National University,2.01,Yes,Not Placed
+1062,Areeb,111.0,Punjab Institute,2.63,Yes,Not Placed
+1063,Nitesh,111.0,Punjab Institute,3.05,No,Placed
+1064,Mia,86.0,Tech Valley University,2.65,Yes,Not Placed
+1065,Ali,122.0,Global College,2.22,,Placed
+1066,Daniel,93.0,City College,2.89,No,Not Placed
+1067,Omar,99.0,Global College,2.51,Yes,Not Placed
+1068,Ahmed,95.0,National University,,No,Placed
+1069,Nitesh,107.0,Punjab Institute,2.2,Yes,Placed
+1070,Neha,92.0,Tech Valley University,2.1,Yes,Not Placed
+1071,Neha,101.0,Global College,2.01,,Not Placed
+1072,Hassan,81.0,Tech Valley University,2.66,No,Not Placed
+1073,Emily,117.0,Global College,3.32,Yes,Placed
+1074,John,110.0,National University,3.46,No,Placed
+1075,Sophia,96.0,City College,2.91,Yes,Placed
+1076,Areeb,93.0,Tech Valley University,3.37,No,Placed
+1077,Neha,110.0,Tech Valley University,2.72,Yes,Placed
+1078,Emily,89.0,City College,3.34,No,Not Placed
+1079,Noah,102.0,Tech Valley University,2.08,,Placed
+1080,Fatima,117.0,Tech Valley University,2.78,Yes,Placed
+1081,Mohammed,88.0,Global College,3.58,Yes,Placed
+1082,Fatima,106.0,Global College,3.61,No,Placed
+1083,Ali,105.0,City College,3.43,Yes,Not Placed
+1084,Mia,99.0,National University,2.41,No,Not Placed
+1085,Emily,92.0,Tech Valley University,2.49,Yes,Not Placed
+1086,Mia,118.0,National University,3.99,No,Not Placed
+1087,John,91.0,City College,2.21,Yes,Not Placed
+1088,Noah,73.0,City College,2.36,Yes,Placed
+1089,Ahmed,110.0,Global College,2.26,Yes,Not Placed
+1090,Ali,82.0,Tech Valley University,2.66,Yes,Placed
+1091,Daniel,110.0,Punjab Institute,2.42,Yes,Placed
+1092,Areeb,120.0,City College,3.0,No,Placed
+1093,Sophia,109.0,Tech Valley University,2.95,No,Placed
+1094,Hassan,116.0,National University,3.8,No,Placed
+1095,Mohammed,130.0,Global College,2.07,Yes,Placed
+1096,Ahmed,115.0,National University,2.64,Yes,Placed
+1097,Nitesh,105.0,City College,3.19,No,Not Placed
+1098,Sofia,125.0,City College,3.21,Yes,Placed
+1099,Sophia,126.0,National University,2.96,No,Not Placed
+1100,Areeb,127.0,City College,3.63,Yes,Not Placed
+1101,Areeb,93.0,Tech Valley University,2.13,No,Not Placed
+1102,Sara,80.0,City College,3.63,Yes,Placed
+1103,Zara,92.0,Global College,2.99,No,Not Placed
+1104,Ahmed,111.0,Tech Valley University,2.27,Yes,Placed
+1105,Sofia,102.0,Punjab Institute,3.77,No,Placed
+1106,Nitesh,97.0,City College,3.3,Yes,Not Placed
+1107,Sophia,108.0,City College,2.33,No,Not Placed
+1108,Sofia,78.0,Global College,2.07,,Not Placed
+1109,Liam,102.0,Global College,2.28,Yes,Placed
+1110,Mohammed,117.0,National University,3.22,Yes,Not Placed
+1111,Neha,108.0,National University,2.36,Yes,Placed
+1112,Liam,110.0,National University,2.45,Yes,Placed
+1113,Noah,124.0,Global College,2.05,Yes,Placed
+1114,Mia,99.0,National University,3.45,Yes,Placed
+1115,Liam,90.0,National University,3.62,Yes,Not Placed
+1116,Neha,118.0,Punjab Institute,3.59,No,Not Placed
+1117,Zara,118.0,National University,2.26,,Not Placed
+1118,Omar,108.0,City College,3.81,Yes,Placed
+1119,Ahmed,98.0,Global College,3.34,No,Not Placed
+1120,Ravi,100.0,Tech Valley University,3.8,No,Not Placed
+1121,Fatima,81.0,Punjab Institute,2.89,Yes,Placed
+1122,Zara,117.0,Global College,2.87,Yes,Not Placed
+1123,Hassan,116.0,Global College,3.57,Yes,Not Placed
+1124,Neha,80.0,City College,2.19,No,Not Placed
+1125,John,113.0,National University,3.04,No,Placed
+1126,Ravi,106.0,City College,3.67,Yes,Placed
+1127,Ahmed,85.0,National University,3.66,No,Not Placed
+1128,Areeb,82.0,National University,3.91,Yes,Placed
+1129,Hassan,106.0,Global College,,Yes,Not Placed
+1130,Sara,94.0,National University,2.42,No,Not Placed
+1131,Noah,127.0,Punjab Institute,2.04,No,Not Placed
+1132,Mohammed,114.0,Punjab Institute,2.96,Yes,Placed
+1133,John,107.0,Punjab Institute,3.03,Yes,Not Placed
+1134,Zara,108.0,Global College,2.48,No,Not Placed
+1135,Sara,120.0,City College,2.25,Yes,Placed
+1136,Ahmed,113.0,Tech Valley University,3.17,No,Placed
+1137,Liam,107.0,National University,3.53,Yes,Placed
+1138,Areeb,85.0,Tech Valley University,3.99,Yes,Placed
+1139,Sara,146.0,City College,3.52,Yes,Placed
+1140,Sofia,83.0,City College,3.59,Yes,Placed
+1141,Mohammed,95.0,Global College,3.23,No,Placed
+1142,Sara,75.0,Punjab Institute,3.97,Yes,Placed
+1143,Omar,108.0,Punjab Institute,3.28,,Not Placed
+1144,Ahmed,102.0,City College,3.72,Yes,Placed
+1145,Sofia,111.0,Global College,3.89,Yes,Placed
+1146,Ravi,74.0,Global College,3.86,No,Placed
+1147,Fatima,117.0,National University,2.76,No,Not Placed
+1148,Mohammed,88.0,Punjab Institute,2.16,Yes,Placed
+1149,Ravi,98.0,City College,2.34,No,Not Placed
+1150,Liam,114.0,Tech Valley University,2.12,No,Not Placed
+1151,Neha,104.0,Punjab Institute,2.21,No,Not Placed
+1152,Ahmed,105.0,National University,2.37,,Placed
+1153,Hassan,112.0,Global College,2.68,Yes,Not Placed
+1154,Ali,106.0,City College,3.09,Yes,Not Placed
+1155,Mia,95.0,Punjab Institute,3.42,No,Placed
+1156,John,98.0,Tech Valley University,2.42,No,Not Placed
+1157,Mia,103.0,National University,3.35,Yes,Placed
+1158,Hassan,87.0,National University,3.41,Yes,Placed
+1159,Omar,115.0,Punjab Institute,3.12,Yes,Placed
+1160,Hassan,104.0,Tech Valley University,3.81,Yes,Not Placed
+1161,John,101.0,National University,2.22,No,Not Placed
+1162,Liam,118.0,City College,2.35,Yes,Not Placed
+1163,Fatima,98.0,National University,2.86,Yes,Not Placed
+1164,Omar,97.0,Tech Valley University,2.25,No,Placed
+1165,Nitesh,93.0,Global College,3.13,Yes,Placed
+1166,Ahmed,105.0,Global College,2.8,No,Not Placed
+1167,Daniel,105.0,Punjab Institute,2.57,Yes,Not Placed
+1168,Areeb,90.0,Tech Valley University,2.34,Yes,Not Placed
+1169,Ali,97.0,National University,2.67,Yes,Not Placed
+1170,John,90.0,National University,3.22,No,Placed
+1171,Daniel,89.0,Global College,3.15,Yes,Placed
+1172,Sophia,74.0,Global College,2.33,Yes,Not Placed
+1173,Mia,97.0,City College,2.25,No,Placed
+1174,Nitesh,74.0,Global College,2.05,Yes,Not Placed
+1175,Sophia,93.0,City College,2.02,Yes,Not Placed
+1176,Hassan,91.0,National University,3.76,Yes,Not Placed
+1177,Liam,116.0,City College,2.09,Yes,Not Placed
+1178,Ravi,85.0,City College,3.46,No,Placed
+1179,Hassan,89.0,Punjab Institute,3.74,No,Placed
+1180,Ahmed,94.0,Global College,2.2,No,Not Placed
+1181,Zara,91.0,City College,2.87,No,Not Placed
+1182,Ahmed,121.0,National University,3.92,Yes,Placed
+1183,Zara,83.0,Tech Valley University,3.67,No,Not Placed
+1184,Zara,94.0,City College,2.98,Yes,Not Placed
+1185,Omar,105.0,Global College,3.53,Yes,Placed
+1186,Liam,113.0,Punjab Institute,3.67,Yes,Placed
+1187,Ali,94.0,National University,2.7,Yes,Not Placed
+1188,Hassan,71.0,Punjab Institute,3.78,No,Placed
+1189,Omar,98.0,Tech Valley University,2.94,Yes,Not Placed
+1190,Mohammed,120.0,City College,3.06,Yes,Placed
+1191,Fatima,104.0,City College,4.0,Yes,Placed
+1192,Nitesh,104.0,Global College,3.69,Yes,Placed
+1193,Nitesh,84.0,City College,2.72,Yes,Placed
+1194,Noah,83.0,National University,2.02,No,Not Placed
+1195,Areeb,100.0,Tech Valley University,3.25,Yes,Placed
+1196,Sofia,79.0,Punjab Institute,3.41,No,Not Placed
+1197,Sofia,112.0,Tech Valley University,3.3,Yes,Placed
+1198,Mia,87.0,City College,3.94,Yes,Placed
+1199,Sara,100.0,Punjab Institute,3.73,No,Placed
+1200,Ahmed,72.0,Global College,2.9,No,Not Placed
+1201,Sofia,94.0,Tech Valley University,2.13,Yes,Not Placed
+1202,Mia,82.0,Punjab Institute,2.95,No,Not Placed
+1203,Areeb,65.0,Punjab Institute,3.38,No,Not Placed
+1204,Sofia,108.0,Punjab Institute,3.22,No,Not Placed
+1205,Liam,125.0,National University,3.08,No,Not Placed
+1206,Liam,117.0,Tech Valley University,2.94,No,Placed
+1207,Mohammed,110.0,Punjab Institute,2.59,Yes,Not Placed
+1208,Liam,94.0,Tech Valley University,2.55,No,Placed
+1209,Daniel,112.0,Punjab Institute,3.0,Yes,Not Placed
+1210,Sofia,118.0,Global College,2.32,No,Not Placed
+1211,Emily,102.0,Global College,,Yes,Placed
+1212,Mia,82.0,Global College,2.65,Yes,Not Placed
+1213,Omar,93.0,City College,3.17,Yes,Not Placed
+1214,Liam,126.0,Punjab Institute,2.13,Yes,Placed
+1215,Areeb,99.0,City College,3.66,Yes,Placed
+1216,Emily,50.0,Tech Valley University,,Yes,Placed
+1217,Sara,78.0,City College,3.34,No,Not Placed
+1218,Omar,94.0,Tech Valley University,3.41,,Not Placed
+1219,Noah,116.0,Tech Valley University,2.58,Yes,Not Placed
+1220,Sofia,96.0,Tech Valley University,2.94,No,Not Placed
+1221,Daniel,116.0,City College,3.91,Yes,Placed
+1222,Zara,92.0,Punjab Institute,3.53,,Placed
+1223,Ravi,71.0,City College,3.94,No,Placed
+1224,Daniel,93.0,Punjab Institute,3.49,No,Not Placed
+1225,Mohammed,105.0,Punjab Institute,2.35,Yes,Not Placed
+1226,Emily,104.0,Tech Valley University,2.13,Yes,Not Placed
+1227,Fatima,81.0,City College,3.16,Yes,Not Placed
+1228,Liam,95.0,Punjab Institute,2.72,Yes,Not Placed
+1229,Fatima,140.0,Global College,2.55,Yes,Placed
+1230,Neha,82.0,Punjab Institute,3.61,No,Not Placed
+1231,Daniel,110.0,Global College,2.73,No,Not Placed
+1232,Fatima,69.0,City College,2.63,No,Not Placed
+1233,Zara,113.0,City College,3.7,,Placed
+1234,Mia,87.0,City College,3.69,No,Not Placed
+1235,Emily,106.0,Punjab Institute,2.71,Yes,Placed
+1236,Omar,81.0,National University,3.66,Yes,Placed
+1237,Noah,104.0,Punjab Institute,3.7,Yes,Placed
+1238,Noah,86.0,Punjab Institute,2.85,No,Not Placed
+1239,Sophia,89.0,Tech Valley University,2.13,No,Not Placed
+1240,Fatima,107.0,Tech Valley University,2.0,Yes,Placed
+1241,Nitesh,94.0,Punjab Institute,3.05,Yes,Not Placed
+1242,Noah,106.0,Global College,2.69,Yes,Not Placed
+1243,Mohammed,97.0,Tech Valley University,3.99,No,Not Placed
+1244,Fatima,101.0,Punjab Institute,3.54,Yes,Placed
+1245,Liam,107.0,National University,3.52,Yes,Placed
+1246,Neha,95.0,Global College,3.91,No,Placed
+1247,Nitesh,85.0,City College,,Yes,Not Placed
+1248,Sofia,92.0,Punjab Institute,2.64,Yes,Not Placed
+1249,Ravi,118.0,Punjab Institute,2.33,Yes,Not Placed
+1250,Ahmed,102.0,Global College,3.49,No,Placed
+1251,Nitesh,87.0,Tech Valley University,2.76,Yes,Placed
+1252,Areeb,106.0,Tech Valley University,2.95,No,Placed
+1253,Hassan,107.0,Tech Valley University,3.26,No,Not Placed
+1254,Omar,108.0,City College,3.82,Yes,Placed
+1255,Sofia,85.0,Global College,2.84,,Not Placed
+1256,Fatima,90.0,Global College,3.57,Yes,Placed
+1257,Daniel,90.0,Tech Valley University,2.54,Yes,Not Placed
+1258,Liam,95.0,Tech Valley University,3.4,No,Placed
+1259,John,108.0,National University,2.0,No,Not Placed
+1260,Ravi,104.0,National University,3.74,Yes,Placed
+1261,Noah,106.0,Punjab Institute,2.06,Yes,Not Placed
+1262,Ali,120.0,Punjab Institute,3.43,Yes,Placed
+1263,Emily,110.0,Global College,2.09,Yes,Not Placed
+1264,Ravi,98.0,Global College,2.53,Yes,Placed
+1265,Mohammed,82.0,City College,2.99,Yes,Placed
+1266,Sofia,89.0,City College,2.84,No,Placed
+1267,Ahmed,96.0,National University,2.38,Yes,Placed
+1268,Nitesh,112.0,Punjab Institute,2.67,Yes,Placed
+1269,Mohammed,100.0,National University,3.46,No,Placed
+1270,Ahmed,90.0,National University,3.34,Yes,Not Placed
+1271,Ravi,89.0,Punjab Institute,2.14,Yes,Not Placed
+1272,Ravi,99.0,City College,3.49,Yes,Not Placed
+1273,Noah,113.0,Punjab Institute,2.11,Yes,Placed
+1274,Nitesh,124.0,Tech Valley University,3.09,No,Placed
+1275,Fatima,97.0,Tech Valley University,2.52,No,Placed
+1276,Neha,99.0,Tech Valley University,3.18,No,Not Placed
+1277,Sophia,82.0,Global College,2.52,No,Not Placed
+1278,Liam,129.0,City College,3.97,Yes,Placed
+1279,Sofia,79.0,City College,2.62,No,Not Placed
+1280,Emily,118.0,Global College,2.48,No,Not Placed
+1281,Sofia,95.0,National University,2.56,Yes,Not Placed
+1282,Daniel,91.0,Tech Valley University,3.79,Yes,Placed
+1283,Mohammed,83.0,Tech Valley University,3.27,Yes,Placed
+1284,Fatima,136.0,National University,3.46,Yes,Placed
+1285,Sophia,103.0,Punjab Institute,3.84,Yes,Placed
+1286,Areeb,100.0,Punjab Institute,3.82,No,Placed
+1287,Ali,113.0,City College,3.48,No,Not Placed
+1288,Liam,90.0,Global College,2.4,Yes,Not Placed
+1289,Nitesh,100.0,City College,3.69,Yes,Placed
+1290,Ravi,101.0,Punjab Institute,2.41,No,Not Placed
+1291,Neha,92.0,National University,3.49,No,Not Placed
+1292,Noah,118.0,City College,3.37,Yes,Placed
+1293,John,97.0,Tech Valley University,3.52,No,Placed
+1294,Noah,77.0,Tech Valley University,3.07,No,Not Placed
+1295,Areeb,95.0,National University,3.28,No,Placed
+1296,Emily,104.0,Punjab Institute,3.91,Yes,Placed
+1297,Ali,87.0,Tech Valley University,2.2,Yes,Placed
+1298,Neha,88.0,Tech Valley University,2.62,No,Not Placed
+1299,Daniel,92.0,Global College,3.22,Yes,Placed
+1300,Zara,118.0,City College,3.93,No,Placed
+1301,Daniel,93.0,Punjab Institute,2.19,Yes,Not Placed
+1302,Liam,121.0,City College,2.05,Yes,Placed
+1303,John,91.0,Punjab Institute,2.11,Yes,Not Placed
+1304,Sofia,105.0,Tech Valley University,2.1,Yes,Placed
+1305,Areeb,93.0,Global College,3.82,No,Placed
+1306,Areeb,111.0,City College,3.44,Yes,Placed
+1307,Hassan,83.0,Tech Valley University,3.35,No,Placed
+1308,Sara,111.0,Punjab Institute,3.05,No,Not Placed
+1309,Fatima,102.0,City College,3.56,Yes,Placed
+1310,Neha,90.0,City College,2.31,No,Not Placed
+1311,Hassan,98.0,Tech Valley University,2.78,Yes,Not Placed
+1312,Ravi,123.0,City College,2.98,No,Placed
+1313,Ahmed,102.0,Global College,2.22,Yes,Not Placed
+1314,Fatima,89.0,Global College,2.84,Yes,Not Placed
+1315,Sophia,82.0,Tech Valley University,2.63,,Not Placed
+1316,John,108.0,Punjab Institute,2.07,,Placed
+1317,Omar,103.0,Tech Valley University,2.27,No,Placed
+1318,Sophia,110.0,Global College,3.53,Yes,Placed
+1319,Mia,78.0,National University,2.04,Yes,Placed
+1320,Ravi,82.0,National University,3.87,Yes,Placed
+1321,Neha,117.0,City College,2.17,No,Not Placed
+1322,Mohammed,105.0,City College,3.6,Yes,Placed
+1323,Hassan,108.0,National University,3.8,No,Not Placed
+1324,Ahmed,86.0,Global College,3.88,Yes,Placed
+1325,Zara,85.0,City College,3.73,Yes,Not Placed
+1326,Liam,115.0,Tech Valley University,2.58,No,Placed
+1327,Nitesh,116.0,Tech Valley University,2.67,No,Not Placed
+1328,Sara,84.0,Global College,2.85,No,Not Placed
+1329,Areeb,81.0,City College,2.28,Yes,Not Placed
+1330,Areeb,98.0,Tech Valley University,2.04,No,Not Placed
+1331,Daniel,88.0,City College,3.74,Yes,Placed
+1332,Liam,88.0,City College,3.11,No,Placed
+1333,Zara,81.0,Tech Valley University,3.22,Yes,Placed
+1334,Nitesh,93.0,National University,3.85,Yes,Placed
+1335,Sophia,83.0,Tech Valley University,3.33,Yes,Not Placed
+1336,Liam,84.0,Global College,3.38,Yes,Placed
+1337,Mohammed,104.0,Punjab Institute,3.57,Yes,Placed
+1338,Nitesh,99.0,Tech Valley University,2.23,No,Not Placed
+1339,Noah,107.0,City College,2.72,No,Not Placed
+1340,Noah,75.0,City College,3.94,No,Placed
+1341,Liam,100.0,Tech Valley University,3.85,Yes,Placed
+1342,Nitesh,131.0,Punjab Institute,3.77,Yes,Placed
+1343,Nitesh,94.0,Tech Valley University,2.9,No,Placed
+1344,Sara,112.0,Punjab Institute,3.71,Yes,Placed
+1345,Ravi,112.0,Punjab Institute,2.1,Yes,Placed
+1346,Daniel,113.0,Global College,2.3,No,Not Placed
+1347,Zara,102.0,City College,2.83,Yes,Placed
+1348,John,108.0,City College,2.97,Yes,Not Placed
+1349,Neha,110.0,Punjab Institute,2.53,No,Not Placed
+1350,Areeb,110.0,City College,2.71,Yes,Not Placed
+1351,Ahmed,83.0,National University,2.33,No,Placed
+1352,Hassan,74.0,Punjab Institute,2.98,Yes,Not Placed
+1353,Zara,77.0,City College,3.59,No,Not Placed
+1354,Nitesh,96.0,National University,3.32,Yes,Not Placed
+1355,Zara,,Global College,2.22,No,Not Placed
+1356,Nitesh,83.0,City College,2.98,Yes,Not Placed
+1357,Ahmed,114.0,National University,3.4,No,Placed
+1358,Sofia,92.0,Tech Valley University,3.06,Yes,Not Placed
+1359,Mohammed,93.0,Tech Valley University,2.78,Yes,Placed
+1360,Zara,87.0,National University,,No,Placed
+1361,Daniel,72.0,Punjab Institute,3.94,Yes,Not Placed
+1362,Omar,103.0,Punjab Institute,2.19,Yes,Not Placed
+1363,Areeb,126.0,City College,2.78,Yes,Placed
+1364,Hassan,99.0,Tech Valley University,2.81,Yes,Not Placed
+1365,Ahmed,72.0,Punjab Institute,3.15,Yes,Not Placed
+1366,Daniel,112.0,Punjab Institute,2.3,Yes,Placed
+1367,Sara,76.0,Tech Valley University,2.35,Yes,Not Placed
+1368,Omar,82.0,Global College,2.57,No,Not Placed
+1369,Areeb,96.0,Punjab Institute,3.91,Yes,Placed
+1370,Emily,102.0,National University,3.47,Yes,Placed
+1371,Noah,85.0,City College,3.32,No,Placed
+1372,Sara,96.0,Punjab Institute,3.63,No,Placed
+1373,Areeb,111.0,Punjab Institute,2.26,,Placed
+1374,Emily,113.0,Global College,3.72,Yes,Not Placed
+1375,Ravi,119.0,National University,3.19,No,Not Placed
+1376,Areeb,129.0,City College,2.67,Yes,Not Placed
+1377,Ravi,112.0,Punjab Institute,3.63,Yes,Placed
+1378,Liam,97.0,City College,3.61,Yes,Placed
+1379,Noah,113.0,Tech Valley University,3.69,No,Not Placed
+1380,Omar,107.0,Punjab Institute,2.23,,Not Placed
+1381,Ravi,108.0,Punjab Institute,3.94,No,Placed
+1382,Mia,103.0,Tech Valley University,3.92,No,Placed
+1383,Nitesh,86.0,Global College,2.71,Yes,Not Placed
+1384,Omar,85.0,Punjab Institute,2.13,No,Not Placed
+1385,Ahmed,99.0,City College,2.33,Yes,Not Placed
+1386,Omar,102.0,National University,3.99,Yes,Placed
+1387,Ravi,90.0,City College,3.13,Yes,Placed
+1388,Ravi,106.0,Global College,2.71,Yes,Not Placed
+1389,Ali,131.0,National University,2.58,Yes,Placed
+1390,Sara,74.0,City College,2.51,Yes,Placed
+1391,Mia,109.0,City College,3.33,Yes,Placed
+1392,Emily,99.0,Tech Valley University,2.84,Yes,Not Placed
+1393,Omar,107.0,Global College,3.93,Yes,Placed
+1394,Ali,94.0,Tech Valley University,3.37,No,Placed
+1395,Emily,98.0,National University,3.58,,Placed
+1396,Zara,102.0,Tech Valley University,2.59,No,Not Placed
+1397,Ravi,95.0,Global College,2.16,Yes,Not Placed
+1398,Hassan,77.0,Punjab Institute,2.98,Yes,Placed
+1399,Ravi,96.0,Punjab Institute,2.63,Yes,Placed
+1400,Mohammed,79.0,National University,2.4,Yes,Not Placed
+1401,John,110.0,Punjab Institute,3.91,Yes,Placed
+1402,Sara,72.0,Tech Valley University,2.89,,Not Placed
+1403,Fatima,115.0,National University,2.35,No,Not Placed
+1404,Areeb,106.0,Global College,2.4,No,Not Placed
+1405,Hassan,107.0,National University,2.56,Yes,Not Placed
+1406,Ravi,68.0,National University,4.0,No,Not Placed
+1407,Mia,95.0,City College,2.54,Yes,Not Placed
+1408,Mohammed,117.0,City College,2.66,Yes,Placed
+1409,Mohammed,92.0,National University,3.32,No,Not Placed
+1410,Hassan,84.0,Punjab Institute,2.59,Yes,Placed
+1411,Fatima,90.0,City College,2.43,Yes,Not Placed
+1412,Noah,99.0,Global College,2.32,Yes,Not Placed
+1413,John,87.0,Tech Valley University,2.63,Yes,Placed
+1414,Ahmed,119.0,City College,2.21,Yes,Not Placed
+1415,Neha,99.0,National University,2.04,Yes,Not Placed
+1416,Ravi,92.0,Punjab Institute,3.61,Yes,Placed
+1417,Sofia,80.0,Tech Valley University,2.28,Yes,Not Placed
+1418,Fatima,107.0,City College,3.55,No,Not Placed
+1419,Ahmed,107.0,Punjab Institute,3.6,Yes,Placed
+1420,Ravi,88.0,Punjab Institute,3.08,No,Placed
+1421,Neha,66.0,Punjab Institute,2.62,No,Not Placed
+1422,Liam,106.0,National University,2.29,No,Not Placed
+1423,Zara,97.0,Global College,3.47,No,Not Placed
+1424,Liam,105.0,Punjab Institute,3.2,Yes,Placed
+1425,Omar,129.0,Tech Valley University,3.31,Yes,Placed
+1426,Ahmed,100.0,City College,2.02,Yes,Placed
+1427,Ravi,92.0,Tech Valley University,3.86,No,Not Placed
+1428,Nitesh,83.0,National University,2.13,Yes,Not Placed
+1429,Emily,95.0,National University,2.73,Yes,Placed
+1430,Sara,102.0,Tech Valley University,2.81,Yes,Placed
+1431,Mia,101.0,Global College,2.0,No,Not Placed
+1432,Fatima,126.0,National University,2.99,Yes,Placed
+1433,Mohammed,107.0,National University,3.51,Yes,Placed
+1434,Zara,98.0,Tech Valley University,3.65,Yes,Not Placed
+1435,Ahmed,89.0,National University,3.76,No,Placed
+1436,Daniel,104.0,Global College,2.98,Yes,Not Placed
+1437,Areeb,86.0,Global College,3.26,Yes,Not Placed
+1438,John,103.0,Global College,,No,Not Placed
+1439,Sophia,107.0,City College,2.98,Yes,Placed
+1440,John,97.0,Global College,2.31,No,Not Placed
+1441,Noah,91.0,Global College,2.74,Yes,Not Placed
+1442,John,67.0,City College,2.66,Yes,Placed
+1443,Liam,117.0,Punjab Institute,2.85,No,Not Placed
+1444,Sofia,106.0,National University,3.14,,Not Placed
+1445,Liam,106.0,Global College,3.81,Yes,Not Placed
+1446,Mohammed,77.0,National University,2.79,Yes,Not Placed
+1447,Ali,121.0,Tech Valley University,3.96,No,Not Placed
+1448,Noah,93.0,National University,3.52,Yes,Not Placed
+1449,Noah,96.0,City College,3.02,No,Placed
+1450,Neha,84.0,National University,3.29,No,Placed
+1451,Daniel,73.0,National University,2.2,Yes,Placed
+1452,Sofia,117.0,National University,3.69,No,Placed
+1453,John,,Punjab Institute,3.16,Yes,Not Placed
+1454,Nitesh,98.0,Punjab Institute,3.97,No,Placed
+1455,Sophia,90.0,Tech Valley University,3.27,Yes,Not Placed
+1456,Sofia,94.0,City College,3.67,No,Not Placed
+1457,Fatima,95.0,National University,3.6,No,Not Placed
+1458,Hassan,82.0,National University,2.69,No,Not Placed
+1459,Ali,96.0,National University,2.52,No,Placed
+1460,Sara,102.0,National University,2.86,Yes,Not Placed
+1461,Daniel,115.0,Punjab Institute,2.93,Yes,Placed
+1462,Daniel,100.0,Tech Valley University,2.48,No,Not Placed
+1463,Mia,76.0,Global College,3.79,No,Placed
+1464,Hassan,105.0,City College,3.09,No,Not Placed
+1465,Ahmed,96.0,National University,3.96,No,Not Placed
+1466,Neha,121.0,Tech Valley University,3.62,Yes,Placed
+1467,Ahmed,121.0,Global College,3.11,Yes,Placed
+1468,John,122.0,Tech Valley University,3.89,Yes,Placed
+1469,Liam,92.0,Punjab Institute,3.01,No,Placed
+1470,Nitesh,130.0,Global College,3.77,Yes,Placed
+1471,Ravi,105.0,Tech Valley University,2.72,No,Not Placed
+1472,Zara,124.0,Punjab Institute,2.76,Yes,Placed
+1473,Fatima,92.0,Tech Valley University,2.84,Yes,Placed
+1474,Daniel,96.0,Tech Valley University,3.09,Yes,Placed
+1475,Hassan,,Global College,3.11,Yes,Placed
+1476,Sophia,102.0,Punjab Institute,2.99,No,Placed
+1477,Ahmed,119.0,National University,2.61,Yes,Placed
+1478,Daniel,97.0,City College,3.85,Yes,Placed
+1479,Neha,117.0,Global College,3.18,Yes,Placed
+1480,Sophia,111.0,Punjab Institute,2.82,No,Not Placed
+1481,Hassan,97.0,Tech Valley University,3.3,No,Not Placed
+1482,Nitesh,110.0,Punjab Institute,3.54,Yes,Placed
+1483,Liam,93.0,City College,3.92,No,Not Placed
+1484,Sofia,135.0,City College,3.0,Yes,Placed
+1485,Daniel,60.0,National University,2.22,Yes,Not Placed
+1486,Emily,110.0,National University,2.88,No,Not Placed
+1487,Areeb,74.0,City College,2.96,Yes,Not Placed
+1488,Sophia,97.0,Global College,3.79,,Not Placed
+1489,Sara,99.0,Global College,2.79,Yes,Placed
+1490,Mia,123.0,Tech Valley University,3.91,No,Placed
+1491,Areeb,90.0,National University,2.97,Yes,Not Placed
+1492,Nitesh,120.0,Tech Valley University,3.95,Yes,Placed
+1493,Ali,82.0,National University,2.02,No,Not Placed
+1494,Sara,120.0,City College,3.8,Yes,Placed
+1495,Daniel,,Global College,3.86,Yes,Placed
+1496,Ahmed,101.0,Global College,3.92,Yes,Placed
+1497,Nitesh,95.0,City College,2.03,Yes,Not Placed
+1498,Liam,119.0,Tech Valley University,2.34,Yes,Placed
+1499,Sofia,116.0,Tech Valley University,3.31,Yes,Placed
+1500,Noah,107.0,Punjab Institute,2.05,No,Not Placed
+1501,Daniel,83.0,National University,2.13,Yes,Not Placed
+1502,Sofia,89.0,Tech Valley University,2.44,No,Not Placed
+1503,Emily,85.0,City College,3.02,Yes,Not Placed
+1504,Omar,66.0,Tech Valley University,3.09,Yes,Not Placed
+1505,Neha,119.0,Global College,2.07,Yes,Not Placed
+1506,Liam,95.0,National University,2.34,Yes,Not Placed
+1507,Omar,95.0,Punjab Institute,3.0,Yes,Placed
+1508,Daniel,122.0,National University,3.19,Yes,Placed
+1509,Neha,93.0,Global College,2.3,Yes,Placed
+1510,Noah,87.0,Global College,2.8,Yes,Not Placed
+1511,Sophia,97.0,Global College,3.81,Yes,Placed
+1512,Fatima,83.0,Global College,4.0,Yes,Placed
+1513,Nitesh,105.0,City College,3.97,No,Placed
+1514,Sofia,94.0,Punjab Institute,3.76,Yes,Placed
+1515,Nitesh,92.0,Global College,2.79,Yes,Placed
+1516,Sophia,91.0,Global College,3.37,Yes,Placed
+1517,Neha,98.0,Tech Valley University,2.83,Yes,Placed
+1518,Daniel,101.0,Punjab Institute,3.3,Yes,Placed
+1519,Neha,92.0,National University,2.62,No,Not Placed
+1520,Fatima,95.0,Punjab Institute,3.21,No,Not Placed
+1521,Liam,99.0,Punjab Institute,3.05,No,Not Placed
+1522,Sofia,97.0,Punjab Institute,2.05,No,Not Placed
+1523,Sophia,100.0,Global College,,Yes,Placed
+1524,John,90.0,Global College,2.02,Yes,Not Placed
+1525,Zara,115.0,City College,2.59,No,Not Placed
+1526,Sara,101.0,National University,2.01,Yes,Not Placed
+1527,Emily,92.0,Tech Valley University,2.75,Yes,Placed
+1528,Ahmed,105.0,Punjab Institute,,No,Not Placed
+1529,Omar,99.0,National University,3.83,No,Placed
+1530,Hassan,74.0,National University,2.83,Yes,Placed
+1531,Ravi,105.0,City College,2.92,Yes,Not Placed
+1532,Liam,85.0,Tech Valley University,2.7,No,Placed
+1533,Omar,114.0,Punjab Institute,3.26,No,Not Placed
+1534,Noah,96.0,Tech Valley University,3.57,No,Placed
+1535,Noah,112.0,City College,3.3,No,Not Placed
+1536,Neha,91.0,Global College,3.5,Yes,Not Placed
+1537,Daniel,101.0,National University,3.81,Yes,Placed
+1538,Sara,118.0,Punjab Institute,3.73,Yes,Not Placed
+1539,Hassan,96.0,Global College,3.35,Yes,Not Placed
+1540,Ravi,91.0,City College,2.43,No,Not Placed
+1541,Ali,110.0,Tech Valley University,3.28,No,Not Placed
+1542,Sara,110.0,National University,3.01,Yes,Placed
+1543,Zara,92.0,Punjab Institute,3.43,Yes,Not Placed
+1544,Omar,70.0,Global College,3.67,Yes,Placed
+1545,Hassan,91.0,Global College,3.49,No,Placed
+1546,Mia,110.0,National University,3.69,Yes,Placed
+1547,Zara,88.0,Tech Valley University,2.13,Yes,Placed
+1548,Liam,100.0,City College,2.06,Yes,Placed
+1549,Sofia,90.0,Tech Valley University,2.52,Yes,Not Placed
+1550,Neha,71.0,Tech Valley University,3.8,No,Not Placed
+1551,Daniel,90.0,Tech Valley University,3.65,Yes,Placed
+1552,Emily,110.0,National University,3.37,Yes,Placed
+1553,Sophia,64.0,National University,3.4,Yes,Not Placed
+1554,Ali,104.0,City College,3.45,Yes,Placed
+1555,Mohammed,82.0,Tech Valley University,3.89,No,Placed
+1556,Omar,109.0,National University,3.66,Yes,Placed
+1557,Noah,111.0,City College,3.25,Yes,Placed
+1558,Ali,97.0,City College,3.33,No,Placed
+1559,Ahmed,97.0,Tech Valley University,2.43,Yes,Not Placed
+1560,Ali,88.0,Punjab Institute,3.31,No,Not Placed
+1561,Ali,80.0,Tech Valley University,,Yes,Placed
+1562,Zara,125.0,Punjab Institute,2.31,Yes,Not Placed
+1563,Ravi,87.0,City College,3.61,No,Not Placed
+1564,Ali,124.0,National University,3.02,No,Placed
+1565,Ravi,87.0,Global College,3.95,Yes,Placed
+1566,Sophia,108.0,City College,2.56,Yes,Placed
+1567,Fatima,83.0,National University,2.96,Yes,Placed
+1568,Ahmed,108.0,City College,2.9,Yes,Placed
+1569,Sara,95.0,Tech Valley University,2.24,Yes,Not Placed
+1570,Fatima,95.0,Punjab Institute,2.85,No,Placed
+1571,Neha,109.0,City College,2.58,Yes,Not Placed
+1572,Noah,93.0,National University,2.32,Yes,Not Placed
+1573,Daniel,79.0,Tech Valley University,2.56,Yes,Not Placed
+1574,Ahmed,111.0,Global College,2.47,Yes,Not Placed
+1575,Mohammed,83.0,Tech Valley University,3.47,No,Not Placed
+1576,Sofia,108.0,Punjab Institute,2.06,Yes,Not Placed
+1577,Liam,115.0,Tech Valley University,3.23,Yes,Placed
+1578,Omar,94.0,Global College,3.52,No,Placed
+1579,Hassan,118.0,National University,2.96,Yes,Not Placed
+1580,Nitesh,107.0,City College,3.86,Yes,Placed
+1581,Sara,90.0,Punjab Institute,3.42,Yes,Placed
+1582,Zara,121.0,Global College,3.5,No,Placed
+1583,Sara,83.0,Punjab Institute,2.39,No,Not Placed
+1584,Zara,94.0,Tech Valley University,3.55,Yes,Not Placed
+1585,Fatima,97.0,Punjab Institute,3.66,Yes,Placed
+1586,Zara,109.0,Global College,2.72,No,Placed
+1587,Noah,,City College,2.43,Yes,Not Placed
+1588,Sofia,116.0,City College,2.77,Yes,Placed
+1589,Omar,103.0,Punjab Institute,3.48,No,Placed
+1590,Omar,96.0,National University,2.84,Yes,Placed
+1591,Noah,73.0,Punjab Institute,3.47,Yes,Not Placed
+1592,Sophia,80.0,Tech Valley University,2.23,No,Not Placed
+1593,Daniel,126.0,City College,3.61,Yes,Not Placed
+1594,Fatima,72.0,City College,2.51,Yes,Placed
+1595,Hassan,88.0,City College,2.5,Yes,Placed
+1596,Sophia,117.0,National University,3.18,Yes,Placed
+1597,Emily,103.0,National University,2.14,Yes,Not Placed
+1598,John,114.0,Global College,2.05,Yes,Not Placed
+1599,Sara,108.0,Punjab Institute,2.52,No,Placed
+1600,Nitesh,122.0,Punjab Institute,3.08,No,Not Placed
+1601,Zara,104.0,Tech Valley University,3.82,Yes,Placed
+1602,Mohammed,110.0,City College,3.69,No,Placed
+1603,Neha,89.0,National University,2.98,No,Not Placed
+1604,Hassan,109.0,Tech Valley University,2.07,No,Not Placed
+1605,Noah,94.0,Tech Valley University,3.07,Yes,Placed
+1606,Sofia,93.0,National University,3.41,No,Placed
+1607,Sofia,113.0,Punjab Institute,2.68,Yes,Placed
+1608,Ravi,114.0,City College,2.22,Yes,Placed
+1609,Ravi,125.0,Punjab Institute,2.56,,Not Placed
+1610,Mia,124.0,Tech Valley University,3.54,No,Placed
+1611,Mia,114.0,City College,2.7,Yes,Not Placed
+1612,Neha,74.0,Global College,3.62,,Placed
+1613,John,127.0,Tech Valley University,2.64,,Placed
+1614,Ravi,114.0,Punjab Institute,2.33,No,Placed
+1615,Omar,89.0,Punjab Institute,2.87,No,Not Placed
+1616,Mia,111.0,Punjab Institute,2.9,Yes,Placed
+1617,Sofia,84.0,National University,2.03,Yes,Not Placed
+1618,Noah,109.0,Tech Valley University,2.23,No,Not Placed
+1619,Sara,80.0,City College,2.37,Yes,Not Placed
+1620,Noah,88.0,Punjab Institute,2.23,,Not Placed
+1621,Mia,111.0,Punjab Institute,2.68,Yes,Placed
+1622,Areeb,116.0,National University,3.93,No,Not Placed
+1623,Zara,105.0,City College,3.02,Yes,Not Placed
+1624,Nitesh,96.0,Tech Valley University,3.26,Yes,Not Placed
+1625,Mohammed,68.0,Global College,2.71,No,Placed
+1626,Mia,97.0,National University,2.65,Yes,Not Placed
+1627,Nitesh,108.0,Tech Valley University,2.05,Yes,Placed
+1628,Daniel,95.0,Global College,3.0,No,Placed
+1629,Ali,100.0,Punjab Institute,2.97,Yes,Not Placed
+1630,Fatima,97.0,Punjab Institute,2.32,Yes,Not Placed
+1631,Sofia,95.0,City College,3.53,Yes,Placed
+1632,Liam,101.0,Global College,2.99,Yes,Not Placed
+1633,Sophia,96.0,Punjab Institute,2.68,Yes,Placed
+1634,Areeb,,Punjab Institute,2.29,No,Placed
+1635,John,67.0,City College,3.1,No,Not Placed
+1636,Sofia,92.0,Tech Valley University,3.51,Yes,Placed
+1637,Sophia,87.0,Punjab Institute,2.56,Yes,Not Placed
+1638,Noah,103.0,National University,2.44,No,Not Placed
+1639,Liam,101.0,National University,3.04,No,Not Placed
+1640,Mia,124.0,Tech Valley University,2.31,Yes,Placed
+1641,Zara,129.0,Global College,3.33,No,Placed
+1642,John,88.0,City College,3.21,No,Not Placed
+1643,Ahmed,100.0,National University,2.17,Yes,Not Placed
+1644,John,103.0,National University,2.07,Yes,Not Placed
+1645,Ahmed,88.0,Tech Valley University,3.24,Yes,Not Placed
+1646,Daniel,109.0,Global College,2.59,No,Placed
+1647,Ahmed,96.0,Global College,2.17,No,Not Placed
+1648,John,84.0,Tech Valley University,3.52,No,Placed
+1649,Sara,96.0,National University,2.63,Yes,Placed
+1650,Fatima,,City College,2.92,No,Not Placed
+1651,Mohammed,116.0,National University,2.47,No,Not Placed
+1652,Mia,129.0,Global College,3.25,No,Placed
+1653,Mia,104.0,National University,2.6,Yes,Not Placed
+1654,Sofia,102.0,City College,3.94,No,Not Placed
+1655,Nitesh,102.0,Punjab Institute,3.41,Yes,Placed
+1656,Ravi,118.0,National University,2.27,No,Placed
+1657,Noah,117.0,Tech Valley University,2.83,No,Not Placed
+1658,Omar,98.0,Punjab Institute,2.77,Yes,Placed
+1659,Daniel,104.0,Tech Valley University,3.07,No,Placed
+1660,Ali,110.0,Tech Valley University,3.68,Yes,Not Placed
+1661,Nitesh,83.0,Tech Valley University,3.17,No,Placed
+1662,Omar,118.0,National University,2.12,Yes,Not Placed
+1663,John,126.0,Global College,3.31,No,Placed
+1664,Emily,117.0,Punjab Institute,2.02,No,Not Placed
+1665,Mohammed,81.0,City College,3.56,Yes,Not Placed
+1666,Sofia,70.0,Global College,3.33,,Placed
+1667,Neha,111.0,National University,2.62,Yes,Placed
+1668,Neha,89.0,Tech Valley University,2.58,Yes,Placed
+1669,Ahmed,104.0,City College,,Yes,Placed
+1670,Areeb,123.0,Punjab Institute,3.57,No,Placed
+1671,Areeb,90.0,Global College,2.7,No,Placed
+1672,Sara,,Global College,2.6,No,Not Placed
+1673,Ravi,104.0,City College,3.12,Yes,Not Placed
+1674,Zara,81.0,National University,2.02,No,Not Placed
+1675,Daniel,89.0,Punjab Institute,2.17,No,Placed
+1676,Neha,100.0,City College,,Yes,Not Placed
+1677,Fatima,95.0,Tech Valley University,2.37,Yes,Not Placed
+1678,Sophia,109.0,Punjab Institute,3.02,Yes,Placed
+1679,Ahmed,141.0,Global College,3.98,No,Placed
+1680,Fatima,,City College,3.31,Yes,Not Placed
+1681,Sara,87.0,Global College,2.12,No,Not Placed
+1682,Liam,121.0,Global College,3.05,Yes,Not Placed
+1683,Ahmed,76.0,Global College,2.99,No,Placed
+1684,Nitesh,79.0,National University,2.29,Yes,Not Placed
+1685,Areeb,91.0,Global College,3.84,No,Not Placed
+1686,Areeb,96.0,Tech Valley University,2.88,Yes,Placed
+1687,Ali,91.0,Tech Valley University,3.99,Yes,Placed
+1688,Omar,100.0,Punjab Institute,2.84,No,Placed
+1689,Sofia,104.0,Global College,3.22,No,Not Placed
+1690,John,116.0,Global College,2.21,Yes,Not Placed
+1691,Ravi,101.0,City College,2.91,Yes,Not Placed
+1692,Daniel,92.0,National University,2.48,,Not Placed
+1693,Hassan,115.0,Punjab Institute,3.67,Yes,Not Placed
+1694,Mohammed,88.0,Global College,3.57,Yes,Not Placed
+1695,Nitesh,76.0,City College,3.65,No,Placed
+1696,Neha,118.0,National University,3.45,No,Placed
+1697,Emily,117.0,Punjab Institute,3.67,Yes,Placed
+1698,Mohammed,88.0,Punjab Institute,2.4,Yes,Placed
+1699,Mohammed,94.0,Global College,2.9,Yes,Not Placed
+1700,Sofia,86.0,Punjab Institute,3.38,Yes,Placed
+1701,Zara,,City College,3.27,Yes,Placed
+1702,Ali,126.0,Punjab Institute,3.43,Yes,Placed
+1703,Areeb,111.0,Tech Valley University,2.45,Yes,Not Placed
+1704,Sophia,116.0,City College,2.2,Yes,Not Placed
+1705,Omar,112.0,National University,3.83,Yes,Placed
+1706,Hassan,100.0,National University,3.12,Yes,Placed
+1707,Sofia,116.0,Global College,2.31,Yes,Placed
+1708,Ali,111.0,Global College,3.59,No,Not Placed
+1709,Sophia,122.0,Tech Valley University,3.83,No,Placed
+1710,Hassan,93.0,National University,2.34,No,Not Placed
+1711,Areeb,74.0,National University,3.63,Yes,Placed
+1712,Daniel,116.0,National University,3.87,Yes,Placed
+1713,Areeb,105.0,National University,3.88,Yes,Placed
+1714,Sofia,96.0,Punjab Institute,3.83,Yes,Placed
+1715,Areeb,96.0,City College,3.09,No,Not Placed
+1716,Liam,138.0,City College,2.71,Yes,Placed
+1717,Liam,90.0,Tech Valley University,2.01,Yes,Placed
+1718,Sofia,87.0,Punjab Institute,2.12,Yes,Not Placed
+1719,Daniel,101.0,National University,2.86,,Placed
+1720,Daniel,118.0,National University,2.8,No,Placed
+1721,Sara,134.0,Global College,2.37,Yes,Placed
+1722,Sofia,110.0,Global College,2.79,No,Placed
+1723,Sophia,81.0,Tech Valley University,2.35,Yes,Not Placed
+1724,Noah,130.0,National University,3.7,No,Placed
+1725,Neha,100.0,Tech Valley University,2.6,Yes,Not Placed
+1726,Ahmed,87.0,Punjab Institute,3.2,No,Not Placed
+1727,Zara,84.0,City College,3.01,Yes,Placed
+1728,Areeb,113.0,National University,2.1,No,Not Placed
+1729,Sophia,104.0,Punjab Institute,3.88,Yes,Placed
+1730,Ali,105.0,National University,3.05,Yes,Placed
+1731,Nitesh,119.0,Global College,2.65,No,Placed
+1732,Sara,88.0,Tech Valley University,2.32,No,Placed
+1733,Areeb,,Global College,2.68,Yes,Placed
+1734,Areeb,92.0,City College,2.04,No,Not Placed
+1735,Ali,132.0,Global College,2.73,Yes,Not Placed
+1736,Liam,109.0,National University,3.06,No,Placed
+1737,Mia,86.0,Global College,3.74,No,Not Placed
+1738,Neha,70.0,National University,3.37,Yes,Placed
+1739,Sofia,112.0,City College,2.22,No,Not Placed
+1740,Mohammed,94.0,Global College,2.3,No,Placed
+1741,Sophia,98.0,Tech Valley University,2.86,Yes,Not Placed
+1742,Noah,111.0,Tech Valley University,2.39,No,Not Placed
+1743,Hassan,115.0,Tech Valley University,2.06,Yes,Placed
+1744,Ahmed,118.0,Global College,3.61,No,Placed
+1745,Noah,82.0,Global College,2.04,No,Not Placed
+1746,Fatima,121.0,Global College,3.66,Yes,Placed
+1747,Daniel,91.0,National University,2.29,No,Not Placed
+1748,Hassan,66.0,City College,3.95,Yes,Placed
+1749,Noah,82.0,Tech Valley University,3.21,Yes,Placed
+1750,Sofia,103.0,National University,3.47,Yes,Not Placed
+1751,Sara,85.0,Tech Valley University,2.22,Yes,Placed
+1752,Sophia,99.0,National University,3.72,No,Placed
+1753,Ravi,105.0,Global College,3.68,Yes,Placed
+1754,Sophia,97.0,Tech Valley University,3.31,Yes,Not Placed
+1755,Emily,93.0,Global College,3.0,No,Not Placed
+1756,Noah,81.0,Tech Valley University,3.44,Yes,Placed
+1757,Mohammed,100.0,Punjab Institute,2.01,Yes,Not Placed
+1758,Omar,69.0,National University,3.18,Yes,Not Placed
+1759,Noah,90.0,Punjab Institute,3.69,No,Placed
+1760,Ali,86.0,National University,2.71,Yes,Not Placed
+1761,Omar,96.0,City College,2.22,Yes,Placed
+1762,Sara,97.0,Tech Valley University,,Yes,Not Placed
+1763,Areeb,114.0,City College,3.45,No,Placed
+1764,Daniel,124.0,City College,2.21,Yes,Not Placed
+1765,Daniel,83.0,National University,2.41,No,Not Placed
+1766,Ahmed,130.0,Punjab Institute,2.3,No,Not Placed
+1767,Ali,88.0,Global College,3.59,No,Placed
+1768,Hassan,103.0,National University,2.13,Yes,Not Placed
+1769,Mohammed,108.0,Global College,3.37,Yes,Placed
+1770,Noah,137.0,City College,2.73,No,Not Placed
+1771,Noah,92.0,Global College,3.51,Yes,Not Placed
+1772,Liam,73.0,Punjab Institute,3.93,Yes,Placed
+1773,Omar,122.0,National University,2.23,Yes,Not Placed
+1774,Daniel,87.0,Punjab Institute,,No,Not Placed
+1775,Omar,95.0,Punjab Institute,3.62,No,Not Placed
+1776,Liam,83.0,National University,2.53,Yes,Not Placed
+1777,Sofia,95.0,Punjab Institute,2.43,No,Placed
+1778,Omar,87.0,Tech Valley University,3.65,Yes,Not Placed
+1779,Neha,110.0,Tech Valley University,3.97,No,Placed
+1780,John,101.0,Tech Valley University,3.11,Yes,Placed
+1781,Ali,90.0,Global College,2.56,No,Not Placed
+1782,Ali,115.0,Punjab Institute,2.8,Yes,Not Placed
+1783,Mia,104.0,National University,2.34,Yes,Placed
+1784,Emily,72.0,National University,3.52,Yes,Placed
+1785,Neha,114.0,Global College,3.55,Yes,Placed
+1786,Emily,103.0,National University,3.75,No,Placed
+1787,Areeb,121.0,Tech Valley University,2.05,Yes,Not Placed
+1788,Zara,102.0,Punjab Institute,3.12,Yes,Not Placed
+1789,Ahmed,88.0,National University,2.43,Yes,Placed
+1790,Noah,97.0,National University,2.68,Yes,Placed
+1791,Sara,112.0,City College,3.57,Yes,Placed
+1792,Zara,88.0,City College,2.38,Yes,Placed
+1793,Ali,93.0,City College,3.28,Yes,Not Placed
+1794,Zara,97.0,Punjab Institute,3.31,Yes,Not Placed
+1795,Emily,83.0,Tech Valley University,3.91,Yes,Placed
+1796,Ravi,89.0,Tech Valley University,3.55,No,Placed
+1797,Zara,103.0,Tech Valley University,3.61,No,Placed
+1798,Ravi,118.0,Punjab Institute,3.06,Yes,Placed
+1799,Zara,105.0,Punjab Institute,2.37,No,Not Placed
+1800,Hassan,99.0,City College,2.85,No,Not Placed
+1801,John,88.0,National University,3.1,Yes,Placed
+1802,Ahmed,116.0,Global College,3.36,No,Not Placed
+1803,Sara,107.0,Global College,3.22,Yes,Placed
+1804,Neha,89.0,National University,2.79,No,Not Placed
+1805,John,113.0,City College,2.53,Yes,Not Placed
+1806,Sara,,National University,2.34,Yes,Not Placed
+1807,Mia,88.0,National University,3.39,Yes,Placed
+1808,Sara,98.0,Global College,3.29,No,Not Placed
+1809,Ahmed,93.0,City College,3.37,No,Placed
+1810,Noah,140.0,Punjab Institute,2.75,Yes,Not Placed
+1811,Ravi,108.0,Global College,2.52,Yes,Placed
+1812,Zara,103.0,Punjab Institute,3.52,Yes,Placed
+1813,Mia,107.0,City College,3.55,Yes,Placed
+1814,Ravi,121.0,National University,2.91,Yes,Not Placed
+1815,Hassan,,Tech Valley University,3.22,Yes,Placed
+1816,Ali,91.0,Tech Valley University,2.75,No,Not Placed
+1817,Fatima,113.0,City College,3.4,No,Not Placed
+1818,Daniel,97.0,Tech Valley University,3.67,Yes,Not Placed
+1819,Ali,84.0,Punjab Institute,3.38,Yes,Placed
+1820,Sofia,81.0,Tech Valley University,3.03,No,Not Placed
+1821,Fatima,123.0,City College,2.92,No,Not Placed
+1822,Daniel,102.0,City College,3.28,No,Placed
+1823,Mia,91.0,Punjab Institute,3.36,No,Placed
+1824,Ali,96.0,Tech Valley University,3.12,No,Placed
+1825,Liam,112.0,Tech Valley University,3.25,Yes,Placed
+1826,Liam,96.0,National University,2.19,Yes,Placed
+1827,Nitesh,78.0,Global College,3.9,No,Placed
+1828,Sofia,105.0,City College,3.58,Yes,Placed
+1829,Sara,118.0,National University,2.75,,Placed
+1830,Hassan,117.0,City College,3.13,Yes,Placed
+1831,Nitesh,92.0,National University,2.09,No,Not Placed
+1832,Omar,119.0,Global College,2.08,No,Not Placed
+1833,Neha,103.0,National University,2.5,Yes,Placed
+1834,Neha,119.0,City College,3.38,Yes,Placed
+1835,Mohammed,109.0,Tech Valley University,3.7,No,Placed
+1836,Ahmed,77.0,City College,3.12,Yes,Placed
+1837,Neha,126.0,Punjab Institute,3.06,Yes,Placed
+1838,Zara,101.0,Punjab Institute,2.8,No,Not Placed
+1839,Nitesh,109.0,Punjab Institute,2.32,Yes,Not Placed
+1840,Omar,80.0,Punjab Institute,2.24,Yes,Not Placed
+1841,Emily,108.0,Global College,3.52,No,Not Placed
+1842,Ahmed,117.0,Tech Valley University,3.86,Yes,Not Placed
+1843,Sara,129.0,Tech Valley University,2.92,No,Not Placed
+1844,Sofia,121.0,City College,3.32,Yes,Placed
+1845,Areeb,108.0,National University,3.83,Yes,Placed
+1846,Ahmed,77.0,City College,2.18,Yes,Placed
+1847,Emily,102.0,City College,3.54,Yes,Placed
+1848,Areeb,91.0,City College,3.23,No,Not Placed
+1849,Daniel,104.0,City College,3.2,No,Not Placed
+1850,Sofia,82.0,Tech Valley University,2.59,No,Not Placed
+1851,John,97.0,National University,3.37,Yes,Not Placed
+1852,Daniel,92.0,City College,3.59,No,Not Placed
+1853,Hassan,92.0,Tech Valley University,2.23,Yes,Placed
+1854,Emily,92.0,City College,3.07,No,Not Placed
+1855,Sara,98.0,Punjab Institute,2.2,No,Not Placed
+1856,Neha,104.0,City College,3.75,Yes,Placed
+1857,Noah,63.0,City College,,Yes,Not Placed
+1858,Sofia,64.0,Global College,3.62,Yes,Placed
+1859,Hassan,95.0,Punjab Institute,2.74,Yes,Placed
+1860,Ravi,97.0,National University,2.25,No,Not Placed
+1861,Hassan,103.0,City College,2.08,Yes,Not Placed
+1862,Emily,89.0,National University,2.56,Yes,Not Placed
+1863,Daniel,100.0,Punjab Institute,2.49,Yes,Placed
+1864,Daniel,102.0,City College,3.12,No,Placed
+1865,John,89.0,Global College,2.04,Yes,Not Placed
+1866,Hassan,115.0,Tech Valley University,3.04,Yes,Placed
+1867,Mia,,Global College,2.78,Yes,Not Placed
+1868,Daniel,108.0,Global College,3.15,No,Not Placed
+1869,John,101.0,Tech Valley University,3.4,Yes,Placed
+1870,Ravi,132.0,Tech Valley University,3.27,No,Placed
+1871,Mia,109.0,Tech Valley University,3.97,Yes,Placed
+1872,Ahmed,93.0,City College,2.28,Yes,Not Placed
+1873,Neha,112.0,National University,2.86,Yes,Placed
+1874,John,75.0,National University,2.85,Yes,Not Placed
+1875,Emily,102.0,Tech Valley University,2.83,Yes,Not Placed
+1876,Sophia,105.0,Global College,3.33,Yes,Placed
+1877,Neha,102.0,Punjab Institute,2.98,No,Not Placed
+1878,Daniel,95.0,Tech Valley University,3.03,Yes,Placed
+1879,Nitesh,85.0,Global College,2.86,Yes,Not Placed
+1880,Omar,88.0,Global College,3.98,No,Not Placed
+1881,Emily,102.0,City College,,Yes,Placed
+1882,Mohammed,83.0,City College,2.62,No,Not Placed
+1883,John,127.0,National University,2.22,No,Placed
+1884,Noah,60.0,National University,3.68,Yes,Placed
+1885,Ahmed,95.0,Punjab Institute,3.99,No,Placed
+1886,Liam,102.0,Punjab Institute,2.59,Yes,Placed
+1887,Ravi,108.0,Punjab Institute,2.72,Yes,Placed
+1888,John,86.0,Punjab Institute,3.88,Yes,Placed
+1889,Hassan,,Global College,3.42,Yes,Placed
+1890,Fatima,79.0,Global College,2.59,Yes,Placed
+1891,Sofia,92.0,National University,3.16,Yes,Not Placed
+1892,Mohammed,109.0,City College,3.89,Yes,Placed
+1893,Fatima,116.0,City College,3.62,Yes,Not Placed
+1894,Ravi,,Tech Valley University,3.48,Yes,Placed
+1895,Fatima,140.0,Global College,3.47,Yes,Placed
+1896,Liam,87.0,Punjab Institute,2.36,Yes,Not Placed
+1897,Mohammed,80.0,Punjab Institute,3.65,Yes,Placed
+1898,Mohammed,108.0,Tech Valley University,2.55,Yes,Placed
+1899,John,95.0,City College,3.86,Yes,Placed
+1900,Sophia,93.0,Punjab Institute,2.73,No,Placed
+1901,John,109.0,City College,3.72,No,Placed
+1902,Fatima,77.0,Tech Valley University,2.53,Yes,Placed
+1903,Ali,74.0,City College,3.03,No,Not Placed
+1904,Sofia,91.0,City College,2.21,Yes,Not Placed
+1905,Ravi,116.0,City College,3.32,Yes,Placed
+1906,Mohammed,92.0,Punjab Institute,3.67,No,Not Placed
+1907,Daniel,124.0,National University,3.44,Yes,Placed
+1908,Ravi,118.0,Global College,3.05,No,Placed
+1909,Zara,104.0,City College,2.09,Yes,Placed
+1910,Zara,105.0,City College,3.87,Yes,Placed
+1911,Daniel,104.0,City College,3.41,Yes,Placed
+1912,Mohammed,102.0,National University,3.49,Yes,Placed
+1913,Mohammed,,Tech Valley University,3.59,Yes,Placed
+1914,Omar,96.0,Punjab Institute,3.5,Yes,Not Placed
+1915,Emily,84.0,National University,2.88,No,Not Placed
+1916,Liam,67.0,City College,3.47,Yes,Placed
+1917,Areeb,117.0,National University,3.25,Yes,Placed
+1918,John,102.0,National University,3.71,Yes,Placed
+1919,Noah,100.0,National University,3.6,No,Placed
+1920,Mia,106.0,Tech Valley University,2.08,Yes,Placed
+1921,John,88.0,Global College,2.76,Yes,Placed
+1922,Fatima,85.0,Punjab Institute,2.07,No,Not Placed
+1923,Mohammed,96.0,Tech Valley University,2.2,Yes,Not Placed
+1924,Noah,121.0,Tech Valley University,3.2,Yes,Placed
+1925,Mia,82.0,Global College,3.75,No,Placed
+1926,John,61.0,Tech Valley University,2.24,No,Not Placed
+1927,Mohammed,92.0,National University,2.9,Yes,Placed
+1928,Ali,117.0,National University,3.82,Yes,Placed
+1929,Noah,74.0,City College,3.63,No,Not Placed
+1930,Areeb,82.0,Tech Valley University,3.04,Yes,Placed
+1931,Daniel,104.0,City College,3.54,No,Placed
+1932,Liam,139.0,Punjab Institute,3.05,Yes,Placed
+1933,Nitesh,80.0,National University,2.32,Yes,Not Placed
+1934,Sofia,79.0,Punjab Institute,2.25,Yes,Placed
+1935,Ahmed,105.0,Global College,2.38,No,Not Placed
+1936,Ali,118.0,National University,2.7,No,Not Placed
+1937,Liam,91.0,Punjab Institute,3.86,No,Placed
+1938,Emily,76.0,Global College,3.6,No,Placed
+1939,Areeb,107.0,Punjab Institute,2.87,Yes,Not Placed
+1940,Daniel,109.0,Global College,2.99,Yes,Placed
+1941,Nitesh,127.0,Global College,2.53,No,Placed
+1942,Fatima,110.0,National University,3.41,No,Placed
+1943,Hassan,112.0,City College,3.61,,Placed
+1944,Mohammed,96.0,Global College,2.48,No,Placed
+1945,Zara,137.0,Global College,2.08,Yes,Not Placed
+1946,Neha,94.0,National University,3.25,Yes,Placed
+1947,Ravi,91.0,City College,3.13,,Not Placed
+1948,Ahmed,127.0,Tech Valley University,2.8,Yes,Placed
+1949,Nitesh,78.0,Tech Valley University,3.29,Yes,Placed
+1950,Fatima,72.0,City College,3.1,No,Placed
+1951,Noah,102.0,Punjab Institute,2.5,Yes,Placed
+1952,Nitesh,100.0,National University,2.8,No,Placed
+1953,Mohammed,97.0,City College,2.86,Yes,Placed
+1954,Fatima,115.0,Tech Valley University,3.76,No,Placed
+1955,Zara,86.0,Global College,3.92,No,Placed
+1956,Liam,101.0,Tech Valley University,3.79,Yes,Not Placed
+1957,Hassan,95.0,Global College,3.44,Yes,Placed
+1958,Fatima,87.0,National University,3.17,Yes,Placed
+1959,Neha,99.0,Global College,3.38,,Placed
+1960,Mia,113.0,City College,3.88,Yes,Placed
+1961,John,132.0,Global College,2.5,Yes,Not Placed
+1962,Sara,109.0,Punjab Institute,3.07,Yes,Placed
+1963,Mohammed,62.0,City College,3.38,Yes,Placed
+1964,Fatima,99.0,National University,3.36,Yes,Placed
+1965,Ravi,101.0,City College,2.5,No,Not Placed
+1966,Neha,114.0,Punjab Institute,3.17,Yes,Placed
+1967,John,103.0,National University,3.59,No,Placed
+1968,Omar,119.0,Tech Valley University,2.95,No,Placed
+1969,Areeb,106.0,Punjab Institute,3.59,No,Placed
+1970,Ali,123.0,National University,2.72,No,Placed
+1971,John,93.0,Global College,3.88,Yes,Not Placed
+1972,Nitesh,102.0,City College,3.07,No,Not Placed
+1973,Zara,112.0,National University,3.19,Yes,Placed
+1974,Omar,91.0,City College,2.06,No,Not Placed
+1975,Ali,88.0,Global College,,No,Not Placed
+1976,Sara,91.0,National University,3.27,Yes,Placed
+1977,Zara,89.0,Tech Valley University,2.84,Yes,Not Placed
+1978,Fatima,108.0,Punjab Institute,3.02,Yes,Placed
+1979,John,72.0,National University,2.13,No,Not Placed
+1980,Ravi,77.0,Global College,3.67,Yes,Placed
+1981,Liam,128.0,National University,3.57,Yes,Not Placed
+1982,Ahmed,89.0,City College,2.37,Yes,Placed
+1983,Areeb,103.0,National University,3.27,Yes,Placed
+1984,Sofia,78.0,Tech Valley University,3.64,No,Placed
+1985,Omar,101.0,National University,3.28,No,Not Placed
+1986,Sara,89.0,Punjab Institute,2.62,Yes,Placed
+1987,Omar,77.0,National University,3.31,Yes,Not Placed
+1988,Noah,120.0,City College,2.42,Yes,Not Placed
+1989,Nitesh,118.0,National University,2.64,Yes,Not Placed
+1990,Sofia,98.0,Tech Valley University,2.48,No,Not Placed
+1991,Nitesh,115.0,Global College,3.11,Yes,Placed
+1992,Sara,129.0,National University,2.22,Yes,Not Placed
+1993,Ahmed,111.0,National University,3.87,No,Placed
+1994,Sofia,107.0,Punjab Institute,2.67,No,Not Placed
+1995,Ahmed,103.0,Tech Valley University,2.44,Yes,Not Placed
+1996,Sara,110.0,Global College,2.99,Yes,Placed
+1997,Liam,95.0,City College,2.55,Yes,Not Placed
+1998,Nitesh,96.0,National University,3.07,No,Placed
+1999,Ahmed,107.0,Global College,2.7,No,Placed
+2000,Sophia,93.0,City College,2.26,Yes,Placed
+2001,Omar,95.0,Tech Valley University,2.53,Yes,Placed
+2002,Sofia,100.0,Tech Valley University,2.88,No,Not Placed
+2003,John,117.0,Global College,2.06,No,Not Placed
+2004,Areeb,83.0,City College,3.54,No,Not Placed
+2005,Ravi,111.0,Tech Valley University,3.24,Yes,Not Placed
+2006,Daniel,112.0,Global College,3.2,Yes,Placed
+2007,Emily,112.0,Tech Valley University,3.09,Yes,Placed
+2008,Mohammed,88.0,Tech Valley University,3.18,Yes,Placed
+2009,Emily,75.0,Tech Valley University,3.87,Yes,Not Placed
+2010,Sofia,108.0,Punjab Institute,2.02,Yes,Placed
+2011,Liam,103.0,City College,2.1,Yes,Not Placed
+2012,Emily,115.0,Global College,2.38,No,Not Placed
+2013,Sofia,89.0,Global College,2.33,Yes,Not Placed
+2014,Omar,111.0,City College,2.36,No,Not Placed
+2015,Sophia,116.0,City College,3.34,Yes,Placed
+2016,Nitesh,99.0,City College,2.92,No,Not Placed
+2017,Emily,106.0,City College,3.98,Yes,Placed
+2018,Ravi,106.0,National University,,No,Placed
+2019,Mia,88.0,Global College,2.62,Yes,Not Placed
+2020,Omar,108.0,National University,3.97,Yes,Placed
+2021,Areeb,124.0,Tech Valley University,3.66,No,Placed
+2022,Sophia,100.0,Tech Valley University,2.94,Yes,Placed
+2023,Omar,78.0,Global College,3.11,Yes,Placed
+2024,Sofia,90.0,Tech Valley University,3.69,No,Placed
+2025,Ali,73.0,City College,2.96,No,Not Placed
+2026,Sophia,119.0,National University,2.41,Yes,Placed
+2027,Sara,111.0,City College,3.66,Yes,Placed
+2028,Noah,92.0,Tech Valley University,3.08,Yes,Not Placed
+2029,Omar,79.0,National University,2.31,Yes,Placed
+2030,Fatima,88.0,City College,3.01,,Not Placed
+2031,Ali,90.0,Global College,2.83,Yes,Placed
+2032,Emily,102.0,City College,3.75,Yes,Placed
+2033,Sofia,101.0,Tech Valley University,2.25,No,Not Placed
+2034,Sara,120.0,National University,3.75,Yes,Not Placed
+2035,Sophia,90.0,Global College,3.02,No,Placed
+2036,Ahmed,77.0,National University,2.81,Yes,Placed
+2037,Neha,83.0,Global College,2.32,Yes,Placed
+2038,John,100.0,National University,3.4,Yes,Placed
+2039,Ali,89.0,Tech Valley University,3.85,Yes,Placed
+2040,Noah,96.0,Global College,2.75,Yes,Not Placed
+2041,Ravi,93.0,Punjab Institute,2.48,Yes,Placed
+2042,Ahmed,115.0,National University,3.11,Yes,Not Placed
+2043,Zara,91.0,National University,3.59,Yes,Placed
+2044,Ahmed,94.0,City College,2.01,Yes,Not Placed
+2045,Zara,111.0,Global College,3.26,Yes,Not Placed
+2046,Ali,92.0,Punjab Institute,3.19,Yes,Placed
+2047,Hassan,106.0,Tech Valley University,2.64,No,Placed
+2048,Nitesh,105.0,City College,2.9,Yes,Placed
+2049,Sophia,102.0,Punjab Institute,2.49,Yes,Not Placed
+2050,John,83.0,Global College,3.58,No,Not Placed
+2051,Noah,118.0,Punjab Institute,3.27,,Placed
+2052,Sara,133.0,National University,3.07,No,Placed
+2053,Nitesh,100.0,National University,2.79,No,Not Placed
+2054,Hassan,84.0,City College,2.58,Yes,Not Placed
+2055,Daniel,100.0,Global College,3.65,Yes,Placed
+2056,Areeb,115.0,Global College,2.9,No,Not Placed
+2057,Sophia,91.0,Punjab Institute,3.0,Yes,Not Placed
+2058,Mohammed,98.0,City College,3.04,No,Not Placed
+2059,Sofia,105.0,Global College,2.9,Yes,Not Placed
+2060,Daniel,118.0,National University,2.51,Yes,Not Placed
+2061,Liam,112.0,Punjab Institute,2.24,Yes,Placed
+2062,Mohammed,112.0,Tech Valley University,2.2,Yes,Not Placed
+2063,Sara,94.0,National University,3.51,Yes,Placed
+2064,Noah,106.0,City College,2.45,No,Not Placed
+2065,Ravi,89.0,Global College,2.11,No,Not Placed
+2066,Nitesh,113.0,National University,3.6,No,Not Placed
+2067,Mohammed,117.0,Tech Valley University,2.31,Yes,Not Placed
+2068,Neha,108.0,Tech Valley University,3.25,No,Placed
+2069,Sara,94.0,City College,2.68,No,Not Placed
+2070,Nitesh,97.0,National University,2.25,No,Not Placed
+2071,Emily,127.0,Punjab Institute,2.83,Yes,Placed
+2072,Fatima,95.0,National University,2.03,No,Not Placed
+2073,Sophia,116.0,Tech Valley University,3.68,Yes,Not Placed
+2074,Neha,105.0,City College,3.03,Yes,Not Placed
+2075,Zara,95.0,City College,2.28,No,Not Placed
+2076,Daniel,80.0,Punjab Institute,2.47,Yes,Placed
+2077,Nitesh,103.0,City College,2.9,Yes,Placed
+2078,Ahmed,,City College,2.38,No,Not Placed
+2079,Ahmed,127.0,City College,2.54,Yes,Placed
+2080,Nitesh,87.0,City College,3.07,No,Not Placed
+2081,Noah,134.0,City College,3.67,No,Placed
+2082,Neha,106.0,Tech Valley University,2.8,Yes,Not Placed
+2083,Sophia,106.0,National University,3.43,Yes,Placed
+2084,Noah,91.0,Global College,3.75,No,Placed
+2085,Mohammed,105.0,City College,2.43,Yes,Not Placed
+2086,Ahmed,107.0,Global College,3.61,No,Placed
+2087,Ali,114.0,Global College,3.51,No,Placed
+2088,John,85.0,Tech Valley University,2.71,Yes,Not Placed
+2089,Neha,121.0,City College,3.98,Yes,Placed
+2090,Ali,105.0,Global College,2.53,No,Not Placed
+2091,Neha,109.0,City College,2.51,Yes,Placed
+2092,Emily,97.0,Punjab Institute,3.54,Yes,Placed
+2093,Neha,86.0,Punjab Institute,2.87,No,Not Placed
+2094,Sophia,101.0,Punjab Institute,2.66,No,Not Placed
+2095,Nitesh,103.0,Global College,2.36,No,Not Placed
+2096,Nitesh,79.0,Punjab Institute,3.53,Yes,Placed
+2097,Zara,112.0,Tech Valley University,3.57,No,Placed
+2098,Sara,115.0,Tech Valley University,3.13,No,Not Placed
+2099,Ravi,89.0,Global College,3.91,No,Placed
+2100,Ahmed,85.0,City College,2.64,No,Not Placed
+2101,Omar,95.0,National University,2.44,Yes,Placed
+2102,Ahmed,100.0,City College,3.35,No,Placed
+2103,John,96.0,City College,3.52,No,Not Placed
+2104,Daniel,99.0,City College,2.45,Yes,Not Placed
+2105,John,103.0,City College,2.15,Yes,Not Placed
+2106,Ravi,79.0,National University,3.62,No,Not Placed
+2107,Sofia,81.0,Punjab Institute,3.95,Yes,Placed
+2108,Ravi,59.0,City College,3.29,Yes,Not Placed
+2109,Neha,114.0,Tech Valley University,2.56,Yes,Not Placed
+2110,Sophia,100.0,Global College,3.99,Yes,Placed
+2111,Noah,116.0,Global College,3.79,Yes,Placed
+2112,Sara,83.0,Tech Valley University,3.03,Yes,Not Placed
+2113,Hassan,100.0,City College,3.65,No,Placed
+2114,Ahmed,103.0,National University,3.63,No,Placed
+2115,Mia,92.0,Punjab Institute,3.87,No,Placed
+2116,Mia,77.0,Global College,3.68,Yes,Not Placed
+2117,Areeb,126.0,Punjab Institute,3.29,No,Placed
+2118,Mia,121.0,National University,3.22,No,Placed
+2119,Ahmed,94.0,Global College,2.93,No,Not Placed
+2120,Mohammed,108.0,Punjab Institute,3.25,Yes,Not Placed
+2121,Ahmed,93.0,National University,3.59,Yes,Not Placed
+2122,Hassan,85.0,Punjab Institute,3.94,No,Placed
+2123,Noah,127.0,City College,2.93,No,Placed
+2124,Daniel,75.0,National University,3.15,No,Not Placed
+2125,Zara,96.0,Punjab Institute,2.89,Yes,Placed
+2126,Mia,101.0,City College,3.34,Yes,Placed
+2127,Zara,125.0,City College,3.26,,Placed
+2128,Nitesh,113.0,National University,2.04,Yes,Not Placed
+2129,Zara,75.0,Tech Valley University,3.08,No,Not Placed
+2130,Neha,100.0,Global College,2.18,No,Not Placed
+2131,Mia,100.0,National University,2.05,No,Placed
+2132,Fatima,97.0,City College,3.58,Yes,Placed
+2133,Emily,109.0,City College,2.52,Yes,Placed
+2134,Emily,79.0,National University,2.68,No,Not Placed
+2135,Ali,94.0,Tech Valley University,2.13,No,Not Placed
+2136,John,107.0,Global College,2.36,Yes,Not Placed
+2137,John,110.0,Punjab Institute,3.53,Yes,Not Placed
+2138,Fatima,102.0,National University,2.99,Yes,Not Placed
+2139,Omar,96.0,Global College,3.76,,Not Placed
+2140,Liam,98.0,Global College,2.79,No,Not Placed
+2141,Areeb,111.0,City College,,No,Not Placed
+2142,Fatima,101.0,Punjab Institute,2.7,Yes,Not Placed
+2143,Sophia,84.0,National University,3.43,No,Not Placed
+2144,Sophia,81.0,City College,3.11,Yes,Placed
+2145,John,78.0,City College,3.81,Yes,Not Placed
+2146,Sara,122.0,Tech Valley University,3.2,No,Placed
+2147,Fatima,112.0,Global College,2.99,Yes,Not Placed
+2148,Noah,98.0,National University,3.57,Yes,Not Placed
+2149,Areeb,93.0,National University,3.9,No,Not Placed
+2150,Sophia,91.0,National University,2.71,,Placed
+2151,Nitesh,116.0,City College,2.5,,Placed
+2152,Fatima,129.0,Tech Valley University,3.23,Yes,Not Placed
+2153,Neha,91.0,Punjab Institute,3.0,Yes,Not Placed
+2154,Fatima,117.0,City College,3.98,No,Placed
+2155,Areeb,100.0,Punjab Institute,2.92,Yes,Not Placed
+2156,Areeb,97.0,Tech Valley University,2.15,No,Not Placed
+2157,Ahmed,123.0,Global College,3.95,Yes,Placed
+2158,Sara,100.0,National University,3.69,Yes,Not Placed
+2159,Daniel,104.0,Punjab Institute,2.36,Yes,Placed
+2160,Mohammed,104.0,City College,3.81,No,Placed
+2161,Fatima,76.0,Punjab Institute,2.68,Yes,Not Placed
+2162,Areeb,104.0,Global College,2.75,No,Not Placed
+2163,Ali,92.0,National University,3.81,Yes,Placed
+2164,Ravi,79.0,Punjab Institute,3.06,No,Not Placed
+2165,Noah,92.0,Global College,2.28,No,Not Placed
+2166,Ravi,92.0,City College,2.74,No,Not Placed
+2167,Noah,115.0,Tech Valley University,3.44,No,Not Placed
+2168,Areeb,84.0,City College,2.35,No,Not Placed
+2169,Ravi,88.0,National University,3.18,No,Placed
+2170,John,104.0,City College,3.39,Yes,Placed
+2171,Liam,80.0,City College,2.69,Yes,Not Placed
+2172,Nitesh,90.0,City College,,No,Placed
+2173,Liam,75.0,City College,3.77,Yes,Not Placed
+2174,Hassan,114.0,National University,2.94,Yes,Not Placed
+2175,Sophia,95.0,Global College,2.77,Yes,Not Placed
+2176,John,100.0,Punjab Institute,2.5,Yes,Not Placed
+2177,Ahmed,114.0,Tech Valley University,3.21,No,Not Placed
+2178,Sophia,89.0,Punjab Institute,3.76,Yes,Placed
+2179,Emily,95.0,Punjab Institute,2.65,No,Not Placed
+2180,Noah,84.0,Tech Valley University,2.79,No,Not Placed
+2181,Omar,84.0,National University,2.81,No,Not Placed
+2182,Nitesh,86.0,Tech Valley University,3.12,Yes,Not Placed
+2183,Zara,93.0,National University,2.46,Yes,Not Placed
+2184,Sophia,94.0,Punjab Institute,3.64,No,Placed
+2185,Sara,104.0,National University,2.59,No,Placed
+2186,Mohammed,87.0,Global College,3.41,No,Not Placed
+2187,Mohammed,105.0,Tech Valley University,3.03,Yes,Placed
+2188,Ravi,107.0,Global College,3.17,Yes,Placed
+2189,Liam,93.0,Punjab Institute,2.36,No,Not Placed
+2190,Zara,88.0,Tech Valley University,3.47,Yes,Placed
+2191,Liam,101.0,Punjab Institute,2.38,No,Placed
+2192,Zara,97.0,Global College,2.23,No,Not Placed
+2193,Zara,103.0,Punjab Institute,3.09,No,Not Placed
+2194,Ali,124.0,Tech Valley University,3.42,Yes,Placed
+2195,Ahmed,101.0,Tech Valley University,2.1,Yes,Not Placed
+2196,Emily,90.0,Punjab Institute,2.14,No,Not Placed
+2197,Ali,87.0,Tech Valley University,3.61,No,Placed
+2198,Mohammed,87.0,Tech Valley University,,No,Not Placed
+2199,Noah,78.0,Punjab Institute,2.49,No,Not Placed
+2200,Omar,114.0,Global College,3.23,No,Placed
+2201,Hassan,67.0,Tech Valley University,2.89,No,Not Placed
+2202,Ahmed,107.0,Tech Valley University,3.27,Yes,Not Placed
+2203,Omar,87.0,Tech Valley University,3.73,Yes,Placed
+2204,Omar,92.0,Tech Valley University,2.16,Yes,Placed
+2205,Liam,87.0,Punjab Institute,3.56,Yes,Not Placed
+2206,Daniel,122.0,Global College,2.99,Yes,Placed
+2207,Liam,100.0,Global College,3.13,Yes,Placed
+2208,Ravi,112.0,National University,3.31,No,Not Placed
+2209,Mia,120.0,Tech Valley University,3.85,Yes,Placed
+2210,Areeb,102.0,Tech Valley University,2.11,Yes,Not Placed
+2211,Sofia,82.0,National University,2.06,Yes,Placed
+2212,Ali,97.0,Global College,2.36,No,Not Placed
+2213,Areeb,89.0,City College,3.97,Yes,Placed
+2214,Omar,92.0,City College,,Yes,Placed
+2215,Ravi,99.0,Global College,3.23,Yes,Placed
+2216,Omar,98.0,Tech Valley University,2.09,No,Not Placed
+2217,Hassan,106.0,City College,3.76,No,Not Placed
+2218,Ali,108.0,Punjab Institute,3.63,No,Not Placed
+2219,Ravi,98.0,Punjab Institute,3.33,Yes,Placed
+2220,Mia,106.0,National University,2.68,No,Not Placed
+2221,Nitesh,92.0,Global College,2.14,Yes,Not Placed
+2222,Liam,120.0,Global College,3.16,Yes,Not Placed
+2223,Areeb,92.0,City College,3.44,Yes,Placed
+2224,Sophia,118.0,Tech Valley University,2.19,Yes,Placed
+2225,Omar,78.0,Global College,3.27,No,Not Placed
+2226,Neha,94.0,City College,2.57,Yes,Placed
+2227,John,95.0,City College,3.53,Yes,Placed
+2228,Hassan,104.0,Global College,3.08,Yes,Placed
+2229,Sophia,113.0,City College,2.26,Yes,Not Placed
+2230,Daniel,81.0,National University,3.05,,Placed
+2231,Mia,83.0,National University,2.79,No,Not Placed
+2232,Fatima,79.0,Global College,2.36,No,Not Placed
+2233,Mia,120.0,Tech Valley University,3.68,Yes,Not Placed
+2234,Mia,104.0,National University,2.02,Yes,Not Placed
+2235,Hassan,84.0,National University,2.62,Yes,Placed
+2236,Areeb,93.0,Global College,2.03,No,Not Placed
+2237,Areeb,118.0,Punjab Institute,2.19,No,Not Placed
+2238,Omar,96.0,City College,2.59,No,Placed
+2239,Mohammed,95.0,National University,2.11,Yes,Placed
+2240,Sara,88.0,Punjab Institute,3.19,Yes,Not Placed
+2241,Daniel,85.0,Tech Valley University,2.17,Yes,Not Placed
+2242,Emily,118.0,Punjab Institute,3.4,No,Not Placed
+2243,Liam,125.0,Global College,,No,Placed
+2244,Omar,85.0,Tech Valley University,2.12,No,Not Placed
+2245,Omar,121.0,Tech Valley University,2.61,No,Not Placed
+2246,Zara,93.0,Punjab Institute,3.79,Yes,Placed
+2247,Ahmed,108.0,Global College,3.28,Yes,Placed
+2248,Daniel,121.0,National University,3.54,Yes,Placed
+2249,Noah,98.0,Punjab Institute,2.28,Yes,Not Placed
+2250,Nitesh,95.0,National University,3.67,Yes,Placed
+2251,Liam,112.0,Punjab Institute,2.02,No,Not Placed
+2252,John,83.0,National University,2.43,No,Placed
+2253,John,117.0,Punjab Institute,3.23,Yes,Placed
+2254,Neha,102.0,Tech Valley University,2.75,Yes,Placed
+2255,Zara,91.0,City College,3.97,Yes,Placed
+2256,Zara,91.0,Tech Valley University,2.06,No,Not Placed
+2257,Noah,79.0,National University,4.0,Yes,Placed
+2258,Mohammed,92.0,Global College,3.25,Yes,Placed
+2259,John,96.0,Tech Valley University,3.12,No,Not Placed
+2260,Sofia,84.0,City College,2.12,Yes,Placed
+2261,Omar,99.0,National University,2.55,Yes,Not Placed
+2262,Ahmed,107.0,Tech Valley University,3.85,No,Placed
+2263,Ravi,97.0,Punjab Institute,2.71,No,Not Placed
+2264,Emily,110.0,Global College,3.32,No,Placed
+2265,Ahmed,88.0,National University,4.0,Yes,Placed
+2266,Hassan,115.0,Tech Valley University,2.53,Yes,Placed
+2267,Mohammed,102.0,National University,3.15,No,Placed
+2268,Daniel,123.0,Punjab Institute,3.39,Yes,Placed
+2269,Liam,136.0,City College,2.33,No,Placed
+2270,Omar,93.0,Tech Valley University,2.3,No,Not Placed
+2271,Noah,94.0,National University,2.91,No,Not Placed
+2272,Zara,96.0,National University,2.77,Yes,Not Placed
+2273,Omar,109.0,National University,3.43,Yes,Placed
+2274,Neha,120.0,City College,2.14,Yes,Not Placed
+2275,Noah,90.0,National University,3.94,No,Placed
+2276,Sophia,106.0,Global College,2.03,Yes,Placed
+2277,Sophia,98.0,Global College,3.2,Yes,Not Placed
+2278,Sofia,109.0,National University,3.13,Yes,Not Placed
+2279,Mia,123.0,Global College,2.27,Yes,Not Placed
+2280,Neha,96.0,Tech Valley University,2.3,Yes,Placed
+2281,Liam,75.0,Global College,3.59,Yes,Placed
+2282,Nitesh,111.0,National University,3.78,No,Placed
+2283,Fatima,88.0,Punjab Institute,2.57,Yes,Not Placed
+2284,Liam,98.0,Tech Valley University,2.88,Yes,Placed
+2285,Sofia,112.0,City College,2.71,No,Not Placed
+2286,Zara,104.0,National University,2.15,No,Not Placed
+2287,Daniel,98.0,City College,3.35,Yes,Placed
+2288,Noah,91.0,Punjab Institute,3.65,Yes,Placed
+2289,Ravi,57.0,City College,2.61,No,Not Placed
+2290,Omar,110.0,National University,3.98,Yes,Placed
+2291,Neha,96.0,National University,2.15,Yes,Not Placed
+2292,Omar,123.0,Punjab Institute,3.32,Yes,Placed
+2293,Neha,106.0,National University,2.9,Yes,Placed
+2294,Fatima,92.0,Punjab Institute,2.89,Yes,Not Placed
+2295,Sofia,116.0,Punjab Institute,2.92,No,Not Placed
+2296,Hassan,117.0,National University,2.52,No,Not Placed
+2297,Hassan,97.0,Global College,3.43,Yes,Not Placed
+2298,Ravi,118.0,Punjab Institute,3.44,Yes,Placed
+2299,Noah,92.0,National University,2.56,No,Not Placed
+2300,Ahmed,102.0,Global College,3.67,Yes,Placed
+2301,Daniel,109.0,Punjab Institute,2.63,Yes,Not Placed
+2302,Sophia,112.0,Global College,3.45,No,Not Placed
+2303,Noah,109.0,Tech Valley University,2.24,No,Placed
+2304,Daniel,95.0,Tech Valley University,2.34,Yes,Not Placed
+2305,Mia,116.0,Global College,2.63,No,Not Placed
+2306,Sofia,98.0,Punjab Institute,3.19,Yes,Not Placed
+2307,Ravi,91.0,National University,3.29,Yes,Placed
+2308,Hassan,92.0,City College,2.79,Yes,Not Placed
+2309,Areeb,129.0,National University,2.16,No,Placed
+2310,Ali,89.0,City College,2.75,No,Not Placed
+2311,Nitesh,119.0,City College,3.38,No,Not Placed
+2312,Mia,83.0,Punjab Institute,3.34,Yes,Placed
+2313,Fatima,107.0,Global College,2.32,Yes,Placed
+2314,Sofia,104.0,National University,2.02,Yes,Placed
+2315,Daniel,124.0,Global College,3.51,Yes,Placed
+2316,Areeb,90.0,Tech Valley University,2.21,Yes,Not Placed
+2317,Daniel,86.0,Punjab Institute,2.16,No,Not Placed
+2318,Omar,98.0,Punjab Institute,2.01,No,Not Placed
+2319,Mohammed,125.0,Tech Valley University,2.87,Yes,Placed
+2320,Emily,87.0,National University,3.01,Yes,Placed
+2321,Omar,61.0,Tech Valley University,3.28,Yes,Placed
+2322,Ali,101.0,National University,2.59,No,Not Placed
+2323,Sofia,114.0,City College,3.42,No,Placed
+2324,Areeb,85.0,Punjab Institute,2.34,No,Not Placed
+2325,Nitesh,113.0,National University,3.66,Yes,Placed
+2326,Ali,84.0,Global College,3.14,Yes,Placed
+2327,John,98.0,Global College,3.17,No,Not Placed
+2328,Omar,111.0,Punjab Institute,2.42,No,Not Placed
+2329,Nitesh,82.0,Tech Valley University,2.15,Yes,Not Placed
+2330,Mohammed,103.0,Tech Valley University,2.93,Yes,Not Placed
+2331,Ahmed,118.0,National University,3.23,Yes,Not Placed
+2332,Hassan,107.0,Tech Valley University,2.19,No,Not Placed
+2333,Mohammed,89.0,Punjab Institute,3.9,No,Placed
+2334,Neha,123.0,National University,3.96,No,Placed
+2335,Fatima,,City College,3.09,Yes,Placed
+2336,Ahmed,72.0,Tech Valley University,3.9,Yes,Not Placed
+2337,Zara,113.0,Tech Valley University,2.36,Yes,Not Placed
+2338,Emily,91.0,National University,2.05,No,Not Placed
+2339,Ravi,103.0,Global College,2.08,Yes,Placed
+2340,Zara,115.0,Tech Valley University,3.18,No,Not Placed
+2341,Sophia,92.0,Punjab Institute,2.12,Yes,Placed
+2342,John,75.0,Tech Valley University,3.92,No,Not Placed
+2343,Mohammed,123.0,City College,2.28,No,Placed
+2344,Sofia,117.0,Tech Valley University,2.61,Yes,Placed
+2345,Liam,99.0,Global College,3.65,No,Placed
+2346,Neha,113.0,Tech Valley University,,Yes,Not Placed
+2347,Neha,94.0,National University,2.49,,Placed
+2348,Ahmed,101.0,Tech Valley University,3.28,Yes,Placed
+2349,Sophia,98.0,Global College,2.55,No,Not Placed
+2350,Hassan,95.0,National University,2.43,No,Not Placed
+2351,Emily,105.0,Punjab Institute,2.51,Yes,Placed
+2352,Mia,82.0,National University,2.98,No,Not Placed
+2353,Sara,96.0,City College,3.93,No,Placed
+2354,Mia,105.0,National University,3.66,No,Placed
+2355,Areeb,128.0,Punjab Institute,2.57,Yes,Placed
+2356,John,82.0,Tech Valley University,2.73,Yes,Placed
+2357,Daniel,108.0,National University,2.93,No,Not Placed
+2358,John,109.0,National University,3.96,Yes,Placed
+2359,Sophia,72.0,National University,2.34,Yes,Not Placed
+2360,Mohammed,106.0,National University,2.71,No,Not Placed
+2361,Nitesh,113.0,Punjab Institute,3.46,Yes,Placed
+2362,Areeb,109.0,Global College,3.93,No,Placed
+2363,Sara,99.0,Global College,2.31,Yes,Placed
+2364,Omar,105.0,National University,2.45,No,Not Placed
+2365,Fatima,103.0,Punjab Institute,2.45,Yes,Not Placed
+2366,Mohammed,75.0,Punjab Institute,2.04,Yes,Not Placed
+2367,Sara,103.0,National University,3.21,Yes,Placed
+2368,Neha,94.0,City College,3.34,No,Placed
+2369,John,89.0,National University,3.21,No,Not Placed
+2370,Ravi,137.0,City College,2.14,Yes,Placed
+2371,Sophia,119.0,National University,2.14,Yes,Not Placed
+2372,Liam,83.0,City College,2.42,No,Not Placed
+2373,Fatima,105.0,City College,2.58,Yes,Placed
+2374,John,122.0,National University,,No,Placed
+2375,Neha,78.0,City College,2.32,Yes,Not Placed
+2376,Nitesh,101.0,Tech Valley University,2.09,No,Not Placed
+2377,Areeb,102.0,Global College,2.79,No,Not Placed
+2378,Emily,81.0,Punjab Institute,2.83,No,Not Placed
+2379,Sophia,106.0,City College,2.9,No,Not Placed
+2380,John,117.0,City College,3.65,Yes,Placed
+2381,Ahmed,123.0,Punjab Institute,2.2,Yes,Not Placed
+2382,Noah,96.0,City College,3.41,No,Not Placed
+2383,Mia,138.0,Punjab Institute,2.68,Yes,Not Placed
+2384,Mia,69.0,National University,2.62,No,Not Placed
+2385,Liam,105.0,Tech Valley University,3.87,No,Not Placed
+2386,Neha,79.0,Tech Valley University,2.5,Yes,Not Placed
+2387,Mia,101.0,Global College,3.29,Yes,Placed
+2388,Ravi,92.0,City College,2.55,Yes,Not Placed
+2389,Sofia,108.0,Global College,3.01,Yes,Placed
+2390,Sara,98.0,National University,3.57,Yes,Placed
+2391,John,88.0,Tech Valley University,3.76,Yes,Placed
+2392,Mia,89.0,National University,3.68,Yes,Not Placed
+2393,Emily,129.0,National University,3.16,Yes,Placed
+2394,Ravi,107.0,City College,2.5,Yes,Not Placed
+2395,John,74.0,National University,3.32,Yes,Placed
+2396,Liam,,Tech Valley University,3.42,Yes,Placed
+2397,Ali,97.0,Global College,2.02,No,Not Placed
+2398,Noah,100.0,Tech Valley University,2.88,Yes,Not Placed
+2399,Sophia,112.0,City College,3.69,Yes,Placed
+2400,Liam,118.0,Tech Valley University,2.98,No,Placed
+2401,Daniel,,Punjab Institute,2.62,No,Not Placed
+2402,Hassan,100.0,Global College,3.74,Yes,Placed
+2403,Ravi,92.0,Punjab Institute,2.31,Yes,Not Placed
+2404,Ali,109.0,Punjab Institute,2.41,Yes,Not Placed
+2405,Liam,97.0,City College,3.37,Yes,Placed
+2406,Sara,100.0,National University,2.7,No,Not Placed
+2407,John,96.0,Punjab Institute,3.43,No,Placed
+2408,Sophia,98.0,Tech Valley University,2.32,No,Placed
+2409,Emily,126.0,National University,2.5,Yes,Placed
+2410,Daniel,136.0,Tech Valley University,2.31,No,Placed
+2411,Daniel,106.0,Tech Valley University,3.91,Yes,Placed
+2412,Sara,99.0,National University,2.81,,Placed
+2413,Daniel,76.0,National University,2.67,Yes,Placed
+2414,Neha,89.0,Tech Valley University,2.03,Yes,Not Placed
+2415,Hassan,98.0,City College,2.31,Yes,Not Placed
+2416,Fatima,89.0,Global College,2.84,No,Not Placed
+2417,Zara,91.0,Global College,2.14,Yes,Placed
+2418,Emily,,City College,3.02,Yes,Placed
+2419,Areeb,100.0,National University,2.91,Yes,Not Placed
+2420,Sophia,102.0,Tech Valley University,3.53,Yes,Placed
+2421,Mohammed,90.0,Global College,3.32,No,Not Placed
+2422,Noah,118.0,Tech Valley University,2.89,No,Not Placed
+2423,Nitesh,97.0,City College,2.45,No,Not Placed
+2424,Ravi,92.0,Tech Valley University,3.45,Yes,Not Placed
+2425,Hassan,76.0,City College,3.42,No,Not Placed
+2426,Liam,99.0,National University,2.31,No,Not Placed
+2427,Ravi,92.0,City College,3.83,Yes,Placed
+2428,Sara,125.0,City College,2.13,Yes,Placed
+2429,Liam,128.0,Global College,2.11,No,Not Placed
+2430,Ravi,81.0,Tech Valley University,2.37,Yes,Placed
+2431,Mia,83.0,Global College,3.82,Yes,Placed
+2432,Mia,96.0,Punjab Institute,3.04,Yes,Placed
+2433,Mohammed,88.0,City College,3.58,Yes,Not Placed
+2434,Nitesh,103.0,Punjab Institute,2.46,Yes,Placed
+2435,Neha,95.0,Global College,2.98,Yes,Placed
+2436,Mia,104.0,Tech Valley University,2.72,No,Not Placed
+2437,Areeb,115.0,Global College,3.66,Yes,Placed
+2438,Areeb,84.0,Tech Valley University,2.05,No,Not Placed
+2439,Sophia,115.0,Tech Valley University,2.49,Yes,Not Placed
+2440,Liam,89.0,National University,2.31,No,Not Placed
+2441,Mohammed,132.0,City College,3.72,No,Placed
+2442,Areeb,,Global College,2.94,No,Placed
+2443,John,98.0,Tech Valley University,2.81,No,Not Placed
+2444,Sara,86.0,Global College,2.9,No,Not Placed
+2445,John,83.0,Global College,3.94,No,Placed
+2446,Fatima,113.0,Tech Valley University,3.7,Yes,Placed
+2447,Fatima,100.0,Punjab Institute,3.41,Yes,Placed
+2448,Noah,114.0,City College,2.58,No,Not Placed
+2449,Nitesh,133.0,City College,2.33,Yes,Placed
+2450,Ali,,National University,3.84,No,Not Placed
+2451,John,82.0,National University,2.85,No,Not Placed
+2452,Sara,103.0,National University,2.56,Yes,Not Placed
+2453,Zara,117.0,City College,2.94,No,Not Placed
+2454,Neha,86.0,Punjab Institute,3.84,Yes,Placed
+2455,Sofia,101.0,City College,2.77,Yes,Placed
+2456,Sophia,121.0,City College,3.13,Yes,Placed
+2457,John,76.0,City College,3.61,Yes,Placed
+2458,Sofia,104.0,City College,2.85,Yes,Not Placed
+2459,Mohammed,92.0,Punjab Institute,2.47,Yes,Placed
+2460,Fatima,102.0,National University,3.99,Yes,Placed
+2461,Nitesh,111.0,Global College,3.91,No,Placed
+2462,Neha,103.0,National University,3.69,No,Placed
+2463,Mohammed,85.0,National University,3.38,Yes,Not Placed
+2464,Emily,92.0,Global College,2.59,Yes,Not Placed
+2465,Emily,121.0,City College,3.83,No,Placed
+2466,Mohammed,105.0,Punjab Institute,2.55,No,Not Placed
+2467,Ravi,113.0,Punjab Institute,3.6,Yes,Placed
+2468,Sara,104.0,National University,3.84,Yes,Not Placed
+2469,Sofia,112.0,Global College,3.21,No,Placed
+2470,Zara,94.0,Tech Valley University,3.61,,Placed
+2471,Ravi,88.0,City College,3.58,Yes,Not Placed
+2472,John,111.0,National University,2.39,Yes,Placed
+2473,Hassan,117.0,Punjab Institute,3.34,Yes,Placed
+2474,Sophia,86.0,Global College,2.19,No,Not Placed
+2475,Noah,91.0,Global College,3.02,Yes,Not Placed
+2476,Hassan,98.0,National University,2.32,Yes,Not Placed
+2477,John,124.0,Tech Valley University,2.83,Yes,Not Placed
+2478,Noah,108.0,Punjab Institute,3.67,No,Placed
+2479,Ali,80.0,National University,3.97,No,Not Placed
+2480,Fatima,99.0,Tech Valley University,2.64,No,Not Placed
+2481,Sara,96.0,Global College,3.06,No,Placed
+2482,Daniel,82.0,City College,3.02,Yes,Not Placed
+2483,Noah,98.0,Punjab Institute,3.91,No,Placed
+2484,Hassan,96.0,Punjab Institute,2.96,Yes,Placed
+2485,Sophia,95.0,Tech Valley University,3.4,No,Not Placed
+2486,Daniel,94.0,National University,3.84,Yes,Placed
+2487,Emily,122.0,Global College,2.75,Yes,Placed
+2488,Fatima,95.0,Tech Valley University,3.8,Yes,Placed
+2489,Mohammed,101.0,City College,3.83,No,Placed
+2490,Sofia,99.0,City College,3.86,No,Placed
+2491,Neha,92.0,City College,2.54,Yes,Placed
+2492,Areeb,101.0,Tech Valley University,2.8,Yes,Placed
+2493,Noah,101.0,Global College,3.74,No,Not Placed
+2494,Areeb,101.0,Punjab Institute,2.72,Yes,Placed
+2495,Nitesh,87.0,National University,3.2,No,Not Placed
+2496,Areeb,97.0,Punjab Institute,2.24,No,Not Placed
+2497,Liam,111.0,Global College,2.11,Yes,Placed
+2498,Mia,97.0,Punjab Institute,2.82,Yes,Placed
+2499,Mia,102.0,Tech Valley University,3.16,Yes,Not Placed
