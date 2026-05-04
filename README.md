@@ -13,4 +13,3 @@ The rest of this report will focus on moving through the Package and these proce
 Kaggle dataset: https://www.kaggle.com/datasets/areebahmedahmed/student-placement/data
 
 
-print("First 5 records:", df.head())
