@@ -9,3 +9,25 @@ The purpose of this R Package will serve as a resource for users to understand s
 The R Package will provide a standardized workflow with the focus being on cleaning the data, summarizing, visualizing and then modeling. The R Package will help to simplify tasks and then will include custom functions, visualizations, and S3 class which is not provided within the standard base R. The package will also help users interpret the logistic regression within the specific contexts of the student placement. 
 The rest of this report will focus on moving through the Package and these processes. 
 
+# References 
+Kaggle dataset: https://www.kaggle.com/datasets/areebahmedahmed/student-placement/data
+# Install dependencies as needed:
+# pip install kagglehub[pandas-datasets]
+import kagglehub
+from kagglehub import KaggleDatasetAdapter
+
+# Set the path to the file you'd like to load
+file_path = ""
+
+# Load the latest version
+df = kagglehub.load_dataset(
+  KaggleDatasetAdapter.PANDAS,
+  "areebahmedahmed/student-placement",
+  file_path,
+  # Provide any additional arguments like 
+  # sql_query or pandas_kwargs. See the 
+  # documenation for more information:
+  # https://github.com/Kaggle/kagglehub/blob/main/README.md#kaggledatasetadapterpandas
+)
+
+print("First 5 records:", df.head())
